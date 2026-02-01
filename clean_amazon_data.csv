@@ -1,0 +1,1001 @@
+order_id,order_date,customer_name,gender,city,product_name,product_category,price,quantity,payment_mode,rating,revenue,platform,month
+AMZ000001,2023-02-14,Nakul Chhabra,Male,Hyderabad,Corporis Aperiam,Electronics,34138,4,Net Banking,2,136552,Amazon,2
+AMZ000002,2023-12-15,Baiju Andra,Female,Delhi,Dolorum Mollitia,Fashion,4130,5,Net Banking,3,20650,Amazon,12
+AMZ000003,2023-11-18,Saksham Deep,Male,Bangalore,In Similique,Beauty,49009,5,Cash on Delivery,3,245045,Amazon,11
+AMZ000004,2023-09-22,Aarav Chaudhari,Female,Kolkata,Recusandae Fugit,Electronics,35639,1,UPI,1,35639,Amazon,9
+AMZ000005,2023-12-19,Tanya Devan,Female,Kolkata,Quidem Recusandae,Sports,7580,3,Debit Card,1,22740,Amazon,12
+AMZ000006,2023-08-04,Ira Sura,Male,Mumbai,Totam Quam,Books,8365,2,Credit Card,2,16730,Amazon,8
+AMZ000007,2023-11-08,Reyansh Badami,Male,Bangalore,Exercitationem Esse,Books,16313,4,Net Banking,4,65252,Amazon,11
+AMZ000008,2023-03-14,Taimur Uppal,Male,Mumbai,Incidunt Et,Sports,39787,2,Debit Card,4,79574,Amazon,3
+AMZ000009,2023-04-02,Rohan Gour,Female,Delhi,Voluptate Voluptatem,Home & Kitchen,6427,2,Net Banking,5,12854,Amazon,4
+AMZ000010,2023-04-03,Shanaya Bobal,Female,Bangalore,Incidunt Cum,Sports,27309,3,Debit Card,3,81927,Amazon,4
+AMZ000011,2023-11-30,Onkar Andra,Male,Mumbai,Praesentium Suscipit,Beauty,37523,3,Net Banking,5,112569,Amazon,11
+AMZ000012,2023-08-14,Vidur Sundaram,Female,Mumbai,Culpa Culpa,Sports,24908,1,Credit Card,2,24908,Amazon,8
+AMZ000013,2023-11-15,Oorja Dugar,Male,Kolkata,Iusto Eligendi,Electronics,45026,1,Debit Card,3,45026,Amazon,11
+AMZ000014,2023-12-18,Ehsaan Goswami,Female,Delhi,In Dicta,Fashion,38552,4,Cash on Delivery,3,154208,Amazon,12
+AMZ000015,2023-02-17,Kanav Goswami,Male,Kolkata,Vero Officia,Home & Kitchen,13424,1,Debit Card,3,13424,Amazon,2
+AMZ000016,2023-06-25,Umang Iyer,Female,Chennai,Amet Culpa,Home & Kitchen,18513,2,Cash on Delivery,4,37026,Amazon,6
+AMZ000017,2023-09-21,Arhaan Dugal,Male,Delhi,Occaecati Mollitia,Beauty,27747,5,Credit Card,1,138735,Amazon,9
+AMZ000018,2023-01-07,Miraya Sachdev,Female,Delhi,Voluptatum Adipisci,Fashion,46186,4,UPI,4,184744,Amazon,1
+AMZ000019,2023-05-03,Ahana  Varma,Female,Hyderabad,Nulla Necessitatibus,Beauty,47753,1,Net Banking,1,47753,Amazon,5
+AMZ000020,2023-10-27,Yashvi Sehgal,Female,Hyderabad,Nihil Distinctio,Beauty,32360,1,Debit Card,1,32360,Amazon,10
+AMZ000021,2023-03-24,Anaya Agate,Male,Kolkata,Fugit Ullam,Beauty,37177,4,Credit Card,4,148708,Amazon,3
+AMZ000022,2023-11-06,Gatik Dhingra,Male,Chennai,Delectus Autem,Beauty,49391,2,UPI,4,98782,Amazon,11
+AMZ000023,2023-05-17,Aniruddh Behl,Female,Delhi,Est Recusandae,Books,24908,5,Credit Card,3,124540,Amazon,5
+AMZ000024,2023-07-18,Onkar Hans,Female,Delhi,Eligendi Fugit,Beauty,23571,1,UPI,2,23571,Amazon,7
+AMZ000025,2023-09-21,Badal Ganguly,Female,Bangalore,Nisi Doloremque,Books,3327,5,Cash on Delivery,5,16635,Amazon,9
+AMZ000026,2023-02-14,Aaryahi Buch,Male,Hyderabad,Iusto Facere,Fashion,21679,5,Cash on Delivery,3,108395,Amazon,2
+AMZ000027,2023-12-09,Shalv Khosla,Male,Hyderabad,Rerum Maiores,Sports,4154,2,Cash on Delivery,2,8308,Amazon,12
+AMZ000028,2023-08-31,Kabir Soni,Male,Kolkata,Eius Quas,Electronics,21127,3,Credit Card,5,63381,Amazon,8
+AMZ000029,2023-02-13,Rasha Lala,Female,Hyderabad,Consectetur Architecto,Sports,31346,1,Cash on Delivery,4,31346,Amazon,2
+AMZ000030,2023-04-08,Ritvik Sachdeva,Male,Delhi,Sed Occaecati,Electronics,40240,3,Credit Card,1,120720,Amazon,4
+AMZ000031,2023-01-31,Arnav Biswas,Male,Mumbai,Veniam Ad,Electronics,18946,1,UPI,3,18946,Amazon,1
+AMZ000032,2023-08-17,Aarav Kale,Female,Bangalore,Quisquam Voluptatibus,Fashion,2257,5,UPI,2,11285,Amazon,8
+AMZ000033,2023-06-30,Lakshit Varma,Female,Hyderabad,Id Hic,Fashion,13431,3,Credit Card,3,40293,Amazon,6
+AMZ000034,2023-11-12,Rohan Goswami,Female,Bangalore,Quam Quaerat,Home & Kitchen,4939,5,Credit Card,5,24695,Amazon,11
+AMZ000035,2023-06-25,Shamik Zacharia,Male,Delhi,Magnam Ea,Fashion,20761,1,UPI,2,20761,Amazon,6
+AMZ000036,2023-03-04,Indrajit Mammen,Male,Bangalore,Doloremque Voluptatem,Beauty,2091,2,UPI,1,4182,Amazon,3
+AMZ000037,2023-03-28,Jiya Yogi,Female,Mumbai,Ipsam Debitis,Beauty,44051,1,Credit Card,2,44051,Amazon,3
+AMZ000038,2023-04-26,Nakul Kala,Female,Delhi,Deleniti Accusamus,Home & Kitchen,21259,1,Cash on Delivery,5,21259,Amazon,4
+AMZ000039,2023-04-16,Tiya Iyengar,Female,Kolkata,Maiores Commodi,Electronics,5824,3,Net Banking,4,17472,Amazon,4
+AMZ000040,2023-09-22,Rasha Tripathi,Female,Bangalore,Quasi Architecto,Home & Kitchen,26130,3,Net Banking,1,78390,Amazon,9
+AMZ000041,2023-06-19,Faiyaz Acharya,Female,Mumbai,Repellat Numquam,Books,18420,1,Credit Card,3,18420,Amazon,6
+AMZ000042,2023-12-25,Yuvaan Jha,Male,Kolkata,Nihil Aliquam,Electronics,9980,4,Cash on Delivery,2,39920,Amazon,12
+AMZ000043,2023-11-17,Armaan Agarwal,Female,Delhi,Laborum Dolor,Beauty,10386,2,Cash on Delivery,5,20772,Amazon,11
+AMZ000044,2023-05-08,Akarsh Keer,Female,Kolkata,Doloremque Fuga,Beauty,23890,4,Debit Card,4,95560,Amazon,5
+AMZ000045,2023-06-23,Miraya Dube,Male,Mumbai,Dolore Iste,Fashion,5349,1,UPI,2,5349,Amazon,6
+AMZ000046,2023-12-29,Vaibhav Devi,Male,Kolkata,Tempora Sapiente,Sports,2882,3,Net Banking,3,8646,Amazon,12
+AMZ000047,2023-07-15,Lakshay Khurana,Male,Mumbai,Nisi Quia,Fashion,45413,3,Cash on Delivery,3,136239,Amazon,7
+AMZ000048,2023-11-10,Tanya Tiwari,Male,Bangalore,Excepturi Recusandae,Fashion,33568,5,Net Banking,3,167840,Amazon,11
+AMZ000049,2023-11-07,Abram Dua,Male,Bangalore,Quaerat Quaerat,Fashion,24284,4,Net Banking,3,97136,Amazon,11
+AMZ000050,2023-09-06,Eshani Johal,Male,Pune,Doloremque Magni,Sports,21703,2,Net Banking,4,43406,Amazon,9
+AMZ000051,2023-08-01,Kimaya Kadakia,Male,Pune,Ipsum Sequi,Electronics,22462,5,Net Banking,4,112310,Amazon,8
+AMZ000052,2023-05-25,Dhanush Karnik,Male,Kolkata,Ex Amet,Electronics,28746,5,Net Banking,1,143730,Amazon,5
+AMZ000053,2023-08-13,Purab Chakrabarti,Female,Pune,Suscipit Officia,Home & Kitchen,26704,5,UPI,2,133520,Amazon,8
+AMZ000054,2023-09-10,Hiran Chanda,Female,Kolkata,Blanditiis Officia,Fashion,46871,1,Credit Card,4,46871,Amazon,9
+AMZ000055,2023-07-18,Jivika Grover,Female,Delhi,Quia Vero,Sports,14280,4,Cash on Delivery,5,57120,Amazon,7
+AMZ000056,2023-08-27,Vivaan Kant,Female,Pune,Consectetur Placeat,Books,13417,3,Credit Card,2,40251,Amazon,8
+AMZ000057,2023-09-06,Rati Kunda,Male,Hyderabad,In Nam,Fashion,38461,4,Net Banking,5,153844,Amazon,9
+AMZ000058,2023-08-31,Ojas Kari,Male,Bangalore,Modi Est,Sports,12911,1,Credit Card,4,12911,Amazon,8
+AMZ000059,2023-11-14,Gokul Krishnamurthy,Male,Hyderabad,Quibusdam Non,Fashion,44888,5,UPI,3,224440,Amazon,11
+AMZ000060,2023-04-07,Hazel Ganesh,Male,Pune,Corrupti Nihil,Sports,4549,3,Cash on Delivery,4,13647,Amazon,4
+AMZ000061,2023-11-28,Nitya Acharya,Male,Kolkata,Pariatur Distinctio,Beauty,25947,3,Credit Card,3,77841,Amazon,11
+AMZ000062,2023-11-22,Saksham Bose,Male,Bangalore,Possimus Atque,Sports,33852,1,Credit Card,2,33852,Amazon,11
+AMZ000063,2023-12-01,Arhaan Seth,Female,Delhi,Expedita Eveniet,Fashion,49716,1,UPI,5,49716,Amazon,12
+AMZ000064,2023-06-05,Adira Bandi,Female,Delhi,Architecto Officiis,Books,16726,5,Cash on Delivery,1,83630,Amazon,6
+AMZ000065,2023-06-23,Indrajit Jaggi,Female,Kolkata,Ad Ipsum,Sports,6121,5,UPI,3,30605,Amazon,6
+AMZ000066,2023-09-26,Shamik Sen,Female,Chennai,Qui Labore,Home & Kitchen,38674,1,Cash on Delivery,5,38674,Amazon,9
+AMZ000067,2023-07-07,Vaibhav Bains,Male,Pune,Architecto Quod,Electronics,763,1,Net Banking,5,763,Amazon,7
+AMZ000068,2023-03-14,Miraya Toor,Female,Kolkata,Quam Consequuntur,Books,15665,4,UPI,5,62660,Amazon,3
+AMZ000069,2023-03-28,Ehsaan Seth,Male,Hyderabad,Quidem Voluptates,Fashion,23290,5,Credit Card,5,116450,Amazon,3
+AMZ000070,2023-04-07,Armaan Brar,Male,Chennai,Tempore Quidem,Sports,17394,3,Cash on Delivery,2,52182,Amazon,4
+AMZ000071,2023-11-24,Nishith Sampath,Male,Kolkata,Beatae Exercitationem,Sports,25161,3,UPI,2,75483,Amazon,11
+AMZ000072,2023-01-21,Kavya Toor,Female,Pune,Quia Non,Fashion,33153,1,Cash on Delivery,3,33153,Amazon,1
+AMZ000073,2023-08-11,Uthkarsh Ranganathan,Male,Pune,Voluptatibus Praesentium,Beauty,36975,4,Cash on Delivery,1,147900,Amazon,8
+AMZ000074,2023-11-02,Shaan Hari,Female,Bangalore,Quam Qui,Electronics,1101,3,Cash on Delivery,5,3303,Amazon,11
+AMZ000075,2023-10-01,Siya Uppal,Female,Chennai,Ut Magni,Fashion,35714,3,Debit Card,1,107142,Amazon,10
+AMZ000076,2023-10-13,Tanya Majumdar,Female,Bangalore,Explicabo Doloribus,Beauty,42923,2,Net Banking,5,85846,Amazon,10
+AMZ000077,2023-09-27,Kimaya Zachariah,Male,Delhi,At Deserunt,Electronics,23433,5,UPI,2,117165,Amazon,9
+AMZ000078,2023-01-03,Ehsaan Choudhury,Female,Kolkata,Iusto Deserunt,Beauty,31931,5,Net Banking,2,159655,Amazon,1
+AMZ000079,2023-02-01,Zara Buch,Female,Mumbai,Quibusdam Eligendi,Sports,34419,1,UPI,4,34419,Amazon,2
+AMZ000080,2023-09-28,Misha Tailor,Female,Kolkata,Quidem Ratione,Home & Kitchen,5572,5,Credit Card,1,27860,Amazon,9
+AMZ000081,2023-03-21,Anahita Balay,Male,Pune,Amet Veritatis,Electronics,36223,1,Debit Card,2,36223,Amazon,3
+AMZ000082,2023-07-29,Shayak Gokhale,Female,Hyderabad,Repudiandae Accusamus,Electronics,13153,5,Credit Card,4,65765,Amazon,7
+AMZ000083,2023-05-28,Jayant Sridhar,Male,Kolkata,Non Error,Beauty,13644,3,Net Banking,2,40932,Amazon,5
+AMZ000084,2023-09-22,Oorja Subramaniam,Female,Mumbai,Voluptatem Repudiandae,Sports,41453,1,Debit Card,5,41453,Amazon,9
+AMZ000085,2023-07-13,Hrishita Deshpande,Female,Hyderabad,Explicabo Voluptatum,Fashion,21759,2,Net Banking,4,43518,Amazon,7
+AMZ000086,2023-03-26,Saanvi Agarwal,Female,Kolkata,Corporis Voluptatem,Beauty,460,5,Credit Card,4,2300,Amazon,3
+AMZ000087,2023-04-25,Aradhya Chadha,Female,Mumbai,Odio Commodi,Home & Kitchen,40777,4,UPI,3,163108,Amazon,4
+AMZ000088,2023-06-12,Ishita Sawhney,Male,Chennai,Dolore Pariatur,Books,38786,1,UPI,1,38786,Amazon,6
+AMZ000089,2023-10-05,Saanvi Wadhwa,Female,Chennai,Illo Corporis,Sports,17861,3,Debit Card,1,53583,Amazon,10
+AMZ000090,2023-10-24,Kavya Wali,Female,Hyderabad,Explicabo Nisi,Fashion,49375,2,Cash on Delivery,1,98750,Amazon,10
+AMZ000091,2023-11-14,Dharmajan Garde,Male,Pune,Nemo Eius,Electronics,21941,4,UPI,1,87764,Amazon,11
+AMZ000092,2023-07-08,Khushi Kohli,Male,Pune,Fugiat Numquam,Fashion,3662,4,Debit Card,4,14648,Amazon,7
+AMZ000093,2023-07-16,Manikya Dhaliwal,Male,Pune,Sunt Voluptatem,Electronics,22586,1,UPI,2,22586,Amazon,7
+AMZ000094,2023-01-29,Prerak Keer,Male,Mumbai,Aspernatur Hic,Home & Kitchen,35872,5,Debit Card,2,179360,Amazon,1
+AMZ000095,2023-11-12,Manjari Sachdev,Female,Mumbai,Commodi Accusamus,Electronics,34389,3,Credit Card,1,103167,Amazon,11
+AMZ000096,2023-07-31,Arnav Bhargava,Male,Delhi,Recusandae Incidunt,Sports,43799,2,UPI,5,87598,Amazon,7
+AMZ000097,2023-11-04,Fateh Sanghvi,Female,Kolkata,A Vitae,Sports,20274,2,Debit Card,5,40548,Amazon,11
+AMZ000098,2023-10-29,Anahi Bansal,Male,Chennai,Ipsa Repudiandae,Sports,27143,5,UPI,1,135715,Amazon,10
+AMZ000099,2023-10-08,Sumer Guha,Female,Hyderabad,Quae Id,Beauty,30725,2,UPI,3,61450,Amazon,10
+AMZ000100,2023-11-02,Chirag Raman,Male,Delhi,Deleniti Similique,Home & Kitchen,21771,1,Net Banking,4,21771,Amazon,11
+AMZ000101,2023-02-25,Vedika Dhawan,Female,Delhi,Atque Tenetur,Sports,43726,2,UPI,5,87452,Amazon,2
+AMZ000102,2023-04-27,Pihu Das,Male,Pune,Maxime Rerum,Home & Kitchen,5221,1,UPI,5,5221,Amazon,4
+AMZ000103,2023-03-01,Priyansh Deshmukh,Male,Hyderabad,Fuga Facilis,Fashion,1339,4,Credit Card,3,5356,Amazon,3
+AMZ000104,2023-12-02,Ranbir Balasubramanian,Male,Chennai,Officiis Optio,Fashion,21015,1,Net Banking,1,21015,Amazon,12
+AMZ000105,2023-03-23,Himmat Salvi,Male,Pune,Voluptates Odio,Electronics,27104,3,Debit Card,3,81312,Amazon,3
+AMZ000106,2023-09-22,Kiara Sawhney,Female,Delhi,Saepe Asperiores,Fashion,36620,4,UPI,5,146480,Amazon,9
+AMZ000107,2023-01-19,Gatik Kamdar,Female,Kolkata,Fugit Dicta,Sports,39113,3,Net Banking,2,117339,Amazon,1
+AMZ000108,2023-03-25,Samar Chakrabarti,Male,Mumbai,Aliquid Vero,Sports,41824,2,Net Banking,2,83648,Amazon,3
+AMZ000109,2023-09-02,Heer Cherian,Female,Delhi,Ea Commodi,Electronics,14970,3,Net Banking,4,44910,Amazon,9
+AMZ000110,2023-10-20,Taimur Suri,Female,Pune,Veritatis Distinctio,Beauty,36680,3,Debit Card,1,110040,Amazon,10
+AMZ000111,2023-04-27,Zaina Venkataraman,Female,Bangalore,Ut Voluptatum,Beauty,13428,2,Net Banking,2,26856,Amazon,4
+AMZ000112,2023-12-22,Taimur Grover,Male,Mumbai,Dolore Sed,Home & Kitchen,4856,5,Credit Card,5,24280,Amazon,12
+AMZ000113,2023-01-13,Ela Sekhon,Female,Kolkata,Alias Nostrum,Beauty,16641,2,Credit Card,5,33282,Amazon,1
+AMZ000114,2023-03-17,Shray Shere,Male,Mumbai,Aperiam Magnam,Fashion,2882,4,Credit Card,3,11528,Amazon,3
+AMZ000115,2023-01-27,Madhav Dara,Male,Delhi,Distinctio Vel,Fashion,31768,5,Net Banking,4,158840,Amazon,1
+AMZ000116,2023-01-27,Anaya Bath,Female,Mumbai,Laboriosam Totam,Beauty,29132,5,UPI,1,145660,Amazon,1
+AMZ000117,2023-01-17,Kiara Dugar,Male,Chennai,Illo Earum,Fashion,5082,4,Cash on Delivery,3,20328,Amazon,1
+AMZ000118,2023-05-23,Samarth Sarkar,Female,Chennai,Inventore Exercitationem,Beauty,22954,2,Cash on Delivery,4,45908,Amazon,5
+AMZ000119,2023-01-28,Ivana Krishnan,Female,Delhi,In Tenetur,Electronics,29540,2,Credit Card,5,59080,Amazon,1
+AMZ000120,2023-01-12,Madhav Goswami,Female,Mumbai,Cumque Sint,Home & Kitchen,32654,5,Credit Card,1,163270,Amazon,1
+AMZ000121,2023-01-08,Raunak Chaudry,Female,Mumbai,Quas Adipisci,Books,11472,4,Cash on Delivery,3,45888,Amazon,1
+AMZ000122,2023-08-11,Yuvaan Kade,Male,Chennai,Quod Nisi,Sports,13706,4,Debit Card,5,54824,Amazon,8
+AMZ000123,2023-04-25,Aaryahi Kade,Female,Hyderabad,Voluptates Aperiam,Electronics,33319,3,UPI,5,99957,Amazon,4
+AMZ000124,2023-09-04,Kavya Lad,Male,Chennai,Dolorem Animi,Home & Kitchen,45010,4,UPI,3,180040,Amazon,9
+AMZ000125,2023-07-15,Tiya Virk,Male,Delhi,Ipsum Dolorem,Home & Kitchen,32045,3,Net Banking,3,96135,Amazon,7
+AMZ000126,2023-04-20,Anaya Atwal,Male,Chennai,Possimus Voluptatum,Electronics,28143,2,UPI,4,56286,Amazon,4
+AMZ000127,2023-09-06,Lavanya Khalsa,Male,Chennai,Minus Numquam,Electronics,35528,4,UPI,5,142112,Amazon,9
+AMZ000128,2023-10-25,Armaan Chowdhury,Male,Hyderabad,Dignissimos Aspernatur,Electronics,15673,4,Cash on Delivery,2,62692,Amazon,10
+AMZ000129,2023-03-03,Tanya Kaul,Female,Pune,Minus Voluptatem,Electronics,48640,2,UPI,2,97280,Amazon,3
+AMZ000130,2023-04-15,Seher Tank,Male,Delhi,Temporibus Expedita,Sports,5100,2,Cash on Delivery,5,10200,Amazon,4
+AMZ000131,2023-10-17,Shlok Bhavsar,Male,Delhi,Commodi Laborum,Fashion,5401,5,Net Banking,2,27005,Amazon,10
+AMZ000132,2023-04-24,Jivin Gupta,Male,Mumbai,Facere Odio,Electronics,5487,4,Debit Card,5,21948,Amazon,4
+AMZ000133,2023-02-14,Pranay Iyer,Female,Delhi,Mollitia Deserunt,Books,13560,3,Credit Card,4,40680,Amazon,2
+AMZ000134,2023-03-26,Khushi Bhandari,Male,Pune,Expedita Aspernatur,Electronics,42788,2,Debit Card,2,85576,Amazon,3
+AMZ000135,2023-08-29,Armaan Contractor,Male,Pune,A Doloremque,Home & Kitchen,28278,3,Debit Card,2,84834,Amazon,8
+AMZ000136,2023-11-14,Advika Gopal,Male,Chennai,Dolorem Et,Sports,20475,3,Debit Card,3,61425,Amazon,11
+AMZ000137,2023-01-05,Stuvan Banerjee,Female,Mumbai,Repellat Eligendi,Home & Kitchen,8350,1,UPI,1,8350,Amazon,1
+AMZ000138,2023-08-09,Lavanya Ratta,Male,Chennai,Quaerat Ea,Beauty,21743,2,Cash on Delivery,1,43486,Amazon,8
+AMZ000139,2023-07-11,Jayant De,Male,Chennai,Similique Nulla,Electronics,23593,4,UPI,1,94372,Amazon,7
+AMZ000140,2023-04-02,Keya Banerjee,Female,Chennai,Perspiciatis Earum,Sports,34537,1,Credit Card,5,34537,Amazon,4
+AMZ000141,2023-02-22,Hunar Chandran,Female,Hyderabad,Nulla Libero,Beauty,49853,1,UPI,2,49853,Amazon,2
+AMZ000142,2023-05-28,Zaina Loyal,Female,Delhi,Nemo Id,Home & Kitchen,29062,4,Credit Card,1,116248,Amazon,5
+AMZ000143,2023-06-28,Gokul Jani,Female,Delhi,Veniam Saepe,Sports,30619,5,Debit Card,4,153095,Amazon,6
+AMZ000144,2023-12-16,Aarna Roy,Male,Hyderabad,Exercitationem Odit,Beauty,24029,2,Net Banking,2,48058,Amazon,12
+AMZ000145,2023-10-11,Divij Chaudhry,Female,Chennai,Assumenda Quae,Books,22508,2,Credit Card,4,45016,Amazon,10
+AMZ000146,2023-12-28,Anahi Chandran,Female,Mumbai,Nam Adipisci,Sports,37733,4,Net Banking,2,150932,Amazon,12
+AMZ000147,2023-01-15,Lakshay Doshi,Female,Kolkata,Velit Fuga,Home & Kitchen,33237,5,UPI,5,166185,Amazon,1
+AMZ000148,2023-10-06,Alisha Baria,Male,Chennai,Quas Ipsam,Books,4711,2,Debit Card,2,9422,Amazon,10
+AMZ000149,2023-07-10,Elakshi Rajagopalan,Male,Pune,Reiciendis Veniam,Beauty,40743,3,Cash on Delivery,3,122229,Amazon,7
+AMZ000150,2023-10-02,Jivika Buch,Female,Mumbai,Veniam Reiciendis,Beauty,34836,4,Debit Card,4,139344,Amazon,10
+AMZ000151,2023-04-21,Devansh Bail,Male,Chennai,Iusto Minima,Home & Kitchen,22973,4,Net Banking,5,91892,Amazon,4
+AMZ000152,2023-07-18,Jayan Bala,Male,Bangalore,Quae Culpa,Beauty,47683,2,Cash on Delivery,4,95366,Amazon,7
+AMZ000153,2023-04-09,Rati Rana,Male,Pune,Soluta Dicta,Books,24186,2,Net Banking,3,48372,Amazon,4
+AMZ000154,2023-06-14,Akarsh Date,Male,Chennai,Excepturi Aliquid,Home & Kitchen,31065,5,Credit Card,1,155325,Amazon,6
+AMZ000155,2023-12-22,Elakshi Kapadia,Male,Mumbai,Accusamus Enim,Electronics,1516,1,Cash on Delivery,2,1516,Amazon,12
+AMZ000156,2023-04-12,Yashvi Gole,Male,Kolkata,Molestiae Neque,Home & Kitchen,44093,4,Debit Card,1,176372,Amazon,4
+AMZ000157,2023-09-22,Aarush Mane,Female,Delhi,Neque Modi,Electronics,15672,1,Net Banking,5,15672,Amazon,9
+AMZ000158,2023-02-18,Anaya Shenoy,Male,Bangalore,Expedita Porro,Sports,32936,1,Cash on Delivery,5,32936,Amazon,2
+AMZ000159,2023-09-19,Ivana Choudhary,Male,Bangalore,Voluptates Similique,Books,7894,5,Credit Card,5,39470,Amazon,9
+AMZ000160,2023-01-09,Rania Kala,Female,Chennai,Laboriosam Aliquam,Books,34331,1,Debit Card,2,34331,Amazon,1
+AMZ000161,2023-05-08,Ivan Yadav,Female,Hyderabad,Ex Possimus,Sports,23618,3,Net Banking,5,70854,Amazon,5
+AMZ000162,2023-10-12,Pari Dubey,Male,Delhi,Quas Delectus,Sports,17368,5,Net Banking,5,86840,Amazon,10
+AMZ000163,2023-10-15,Adira Ramachandran,Male,Bangalore,Occaecati Rerum,Fashion,46271,1,Debit Card,5,46271,Amazon,10
+AMZ000164,2023-12-12,Pari Khosla,Female,Bangalore,Iusto Vitae,Fashion,35794,1,Debit Card,2,35794,Amazon,12
+AMZ000165,2023-05-30,Parinaaz Sharaf,Female,Bangalore,Consequuntur Error,Books,16891,1,Debit Card,1,16891,Amazon,5
+AMZ000166,2023-04-16,Dhruv Buch,Female,Mumbai,Voluptas Ea,Fashion,36694,1,Debit Card,1,36694,Amazon,4
+AMZ000167,2023-09-20,Aayush Sant,Female,Pune,Doloremque Dolorum,Beauty,34134,2,Credit Card,2,68268,Amazon,9
+AMZ000168,2023-04-28,Gokul Sanghvi,Female,Delhi,Officiis Dolore,Sports,3122,4,Debit Card,5,12488,Amazon,4
+AMZ000169,2023-05-03,Eva Kohli,Male,Mumbai,Praesentium Adipisci,Home & Kitchen,18018,3,Net Banking,3,54054,Amazon,5
+AMZ000170,2023-12-03,Shamik Verma,Male,Kolkata,Doloremque Sint,Fashion,29471,4,Net Banking,5,117884,Amazon,12
+AMZ000171,2023-02-08,Dhanush Bobal,Male,Hyderabad,Itaque Facere,Electronics,2170,3,UPI,3,6510,Amazon,2
+AMZ000172,2023-02-26,Divit Sarin,Male,Hyderabad,Optio Quod,Beauty,35819,5,Credit Card,5,179095,Amazon,2
+AMZ000173,2023-10-04,Vaibhav Hayer,Female,Chennai,Adipisci Dignissimos,Electronics,35094,4,UPI,5,140376,Amazon,10
+AMZ000174,2023-11-06,Abram Dara,Male,Chennai,Explicabo Tempora,Beauty,28908,3,Cash on Delivery,1,86724,Amazon,11
+AMZ000175,2023-12-06,Ranbir Upadhyay,Male,Hyderabad,Explicabo Molestiae,Beauty,49197,2,Net Banking,4,98394,Amazon,12
+AMZ000176,2023-09-21,Prerak Baral,Female,Delhi,Id Quibusdam,Books,41885,1,Credit Card,4,41885,Amazon,9
+AMZ000177,2023-07-06,Hridaan Das,Male,Delhi,Magni Voluptatum,Books,11526,1,Credit Card,4,11526,Amazon,7
+AMZ000178,2023-12-06,Aniruddh Kumer,Female,Bangalore,Corporis Incidunt,Sports,16669,3,Cash on Delivery,1,50007,Amazon,12
+AMZ000179,2023-10-16,Alisha Deo,Female,Delhi,Beatae Atque,Sports,49378,3,Cash on Delivery,5,148134,Amazon,10
+AMZ000180,2023-09-18,Darshit Banerjee,Female,Kolkata,Voluptatem Fugit,Books,44672,1,Debit Card,4,44672,Amazon,9
+AMZ000181,2023-06-23,Nirvi Deep,Male,Delhi,Dicta Exercitationem,Home & Kitchen,34927,3,Cash on Delivery,2,104781,Amazon,6
+AMZ000182,2023-12-09,Ishaan Kohli,Male,Hyderabad,Consectetur Impedit,Fashion,32642,1,UPI,2,32642,Amazon,12
+AMZ000183,2023-09-24,Elakshi Lalla,Female,Bangalore,Ut Excepturi,Sports,41361,2,Debit Card,5,82722,Amazon,9
+AMZ000184,2023-02-06,Ela Buch,Female,Bangalore,Eius Dolorum,Electronics,4445,5,Net Banking,3,22225,Amazon,2
+AMZ000185,2023-09-22,Riaan Chaudhary,Female,Mumbai,Qui Veniam,Electronics,16117,2,Net Banking,3,32234,Amazon,9
+AMZ000186,2023-08-29,Aayush Kapadia,Female,Hyderabad,Sunt Deserunt,Books,30126,5,Debit Card,3,150630,Amazon,8
+AMZ000187,2023-07-10,Stuvan Jhaveri,Female,Hyderabad,Dolore Sed,Electronics,387,2,Cash on Delivery,5,774,Amazon,7
+AMZ000188,2023-05-23,Anya Acharya,Female,Pune,Quibusdam Sequi,Home & Kitchen,9737,1,Credit Card,1,9737,Amazon,5
+AMZ000189,2023-11-30,Saira Goyal,Male,Pune,Consequatur Doloribus,Books,8372,1,UPI,3,8372,Amazon,11
+AMZ000190,2023-04-23,Prisha Chahal,Female,Hyderabad,Suscipit Sit,Beauty,11276,4,Cash on Delivery,4,45104,Amazon,4
+AMZ000191,2023-03-05,Neysa Devan,Male,Pune,Nisi Ipsum,Electronics,31664,3,Cash on Delivery,1,94992,Amazon,3
+AMZ000192,2023-02-05,Jhanvi Dayal,Male,Delhi,Tempora Magni,Electronics,6220,5,Debit Card,3,31100,Amazon,2
+AMZ000193,2023-10-28,Nayantara Johal,Female,Bangalore,Non Nobis,Fashion,14198,3,Debit Card,4,42594,Amazon,10
+AMZ000194,2023-07-22,Saanvi Khalsa,Female,Delhi,Tenetur Laudantium,Electronics,42324,5,Credit Card,5,211620,Amazon,7
+AMZ000195,2023-05-29,Drishya Rattan,Female,Delhi,Blanditiis Ex,Electronics,7935,5,Debit Card,3,39675,Amazon,5
+AMZ000196,2023-05-10,Yakshit Seth,Male,Delhi,Placeat Ad,Books,37213,4,Credit Card,3,148852,Amazon,5
+AMZ000197,2023-05-16,Gatik Lalla,Female,Pune,Non Cupiditate,Books,36975,4,UPI,1,147900,Amazon,5
+AMZ000198,2023-06-13,Ayesha Behl,Male,Hyderabad,Neque Beatae,Home & Kitchen,42826,5,UPI,5,214130,Amazon,6
+AMZ000199,2023-06-19,Badal Dutt,Male,Mumbai,Repellendus Officia,Fashion,49241,3,Net Banking,2,147723,Amazon,6
+AMZ000200,2023-03-12,Anahi Chaudhry,Female,Bangalore,Adipisci Atque,Beauty,36860,5,Cash on Delivery,4,184300,Amazon,3
+AMZ000201,2023-01-16,Rasha Bora,Male,Pune,Deserunt Modi,Fashion,39071,5,Credit Card,4,195355,Amazon,1
+AMZ000202,2023-12-30,Mahika Dara,Female,Kolkata,Suscipit Ea,Sports,45364,3,Debit Card,5,136092,Amazon,12
+AMZ000203,2023-08-05,Farhan Sastry,Male,Delhi,Hic Cupiditate,Fashion,11699,4,Cash on Delivery,3,46796,Amazon,8
+AMZ000204,2023-02-18,Nakul Sampath,Male,Kolkata,Quibusdam Fugit,Sports,35035,2,Debit Card,1,70070,Amazon,2
+AMZ000205,2023-02-07,Seher Trivedi,Male,Hyderabad,Itaque Ipsa,Sports,17825,3,Net Banking,1,53475,Amazon,2
+AMZ000206,2023-08-06,Rohan Gera,Female,Hyderabad,Quidem Ipsa,Beauty,11806,1,Credit Card,1,11806,Amazon,8
+AMZ000207,2023-06-20,Renee Garg,Female,Kolkata,Nulla Veritatis,Electronics,16028,1,Cash on Delivery,4,16028,Amazon,6
+AMZ000208,2023-11-19,Tiya Subramanian,Male,Bangalore,Rem Voluptate,Beauty,43539,1,Cash on Delivery,4,43539,Amazon,11
+AMZ000209,2023-03-05,Prerak Sehgal,Male,Pune,Non Accusantium,Beauty,13329,4,Net Banking,3,53316,Amazon,3
+AMZ000210,2023-02-24,Eshani Dugar,Female,Mumbai,Modi Vero,Sports,43298,3,Cash on Delivery,3,129894,Amazon,2
+AMZ000211,2023-08-14,Seher Sahni,Female,Pune,Ea Officia,Home & Kitchen,31924,5,Net Banking,4,159620,Amazon,8
+AMZ000212,2023-06-28,Aaryahi Keer,Male,Mumbai,Earum Delectus,Books,44274,5,UPI,5,221370,Amazon,6
+AMZ000213,2023-09-03,Azad Gole,Male,Kolkata,Laboriosam Quis,Fashion,19144,1,Credit Card,2,19144,Amazon,9
+AMZ000214,2023-10-21,Ayesha Rao,Male,Delhi,Maxime Quos,Beauty,6108,2,Credit Card,2,12216,Amazon,10
+AMZ000215,2023-08-27,Lavanya Sandhu,Male,Delhi,Facilis Error,Electronics,45355,3,Debit Card,1,136065,Amazon,8
+AMZ000216,2023-12-06,Hunar Ghosh,Male,Chennai,Illum Sunt,Sports,11738,3,Credit Card,4,35214,Amazon,12
+AMZ000217,2023-05-11,Miraan Lad,Female,Delhi,Suscipit Magnam,Fashion,43436,1,Debit Card,3,43436,Amazon,5
+AMZ000218,2023-04-04,Mohanlal Sahota,Male,Chennai,Corporis Aliquid,Electronics,42874,4,Cash on Delivery,3,171496,Amazon,4
+AMZ000219,2023-01-12,Himmat Bath,Female,Kolkata,Pariatur Tempore,Home & Kitchen,12607,2,Net Banking,2,25214,Amazon,1
+AMZ000220,2023-01-25,Azad De,Male,Hyderabad,Cupiditate Laborum,Home & Kitchen,37814,5,Debit Card,3,189070,Amazon,1
+AMZ000221,2023-03-11,Navya Kala,Female,Mumbai,Odio Consequatur,Beauty,31656,2,Cash on Delivery,5,63312,Amazon,3
+AMZ000222,2023-06-25,Khushi Ahuja,Female,Hyderabad,Voluptatem Adipisci,Electronics,12146,1,Credit Card,3,12146,Amazon,6
+AMZ000223,2023-09-02,Adira Chandra,Female,Kolkata,Alias Incidunt,Books,26581,2,Debit Card,2,53162,Amazon,9
+AMZ000224,2023-08-23,Badal Sani,Male,Mumbai,Dolor Porro,Fashion,26460,5,UPI,3,132300,Amazon,8
+AMZ000225,2023-03-05,Badal Comar,Female,Bangalore,Fugit Quidem,Books,26135,3,Debit Card,1,78405,Amazon,3
+AMZ000226,2023-06-10,Aradhya Sarma,Male,Hyderabad,Sunt Dolorum,Sports,40497,3,Cash on Delivery,3,121491,Amazon,6
+AMZ000227,2023-12-13,Vaibhav Arya,Female,Bangalore,Accusantium Autem,Home & Kitchen,28471,5,Credit Card,1,142355,Amazon,12
+AMZ000228,2023-10-22,Krish Swaminathan,Female,Chennai,Non Dolores,Fashion,45094,4,UPI,2,180376,Amazon,10
+AMZ000229,2023-08-24,Manjari Raju,Male,Bangalore,Sit Totam,Books,15443,5,UPI,4,77215,Amazon,8
+AMZ000230,2023-03-25,Jhanvi Madan,Female,Mumbai,Iste Eum,Sports,5015,4,Credit Card,4,20060,Amazon,3
+AMZ000231,2023-05-06,Suhana Ghose,Female,Bangalore,Porro Autem,Electronics,8703,5,Credit Card,5,43515,Amazon,5
+AMZ000232,2023-01-31,Alisha Singh,Male,Delhi,Omnis Praesentium,Sports,40829,5,Credit Card,3,204145,Amazon,1
+AMZ000233,2023-09-26,Jivin Chander,Male,Pune,Architecto Repellat,Fashion,47930,5,Net Banking,3,239650,Amazon,9
+AMZ000234,2023-07-20,Indranil Gandhi,Female,Hyderabad,Libero Officia,Beauty,19940,5,UPI,3,99700,Amazon,7
+AMZ000235,2023-09-01,Hridaan Tata,Female,Chennai,Iste Assumenda,Books,44005,4,Net Banking,1,176020,Amazon,9
+AMZ000236,2023-04-05,Alia Kurian,Male,Kolkata,Accusamus Adipisci,Sports,17831,1,Credit Card,2,17831,Amazon,4
+AMZ000237,2023-12-28,Miraya Mandal,Male,Pune,Mollitia Quod,Beauty,35178,2,Credit Card,3,70356,Amazon,12
+AMZ000238,2023-07-23,Ivan Chowdhury,Male,Delhi,Soluta Quaerat,Beauty,16696,5,Debit Card,1,83480,Amazon,7
+AMZ000239,2023-10-29,Neelofar Goswami,Male,Mumbai,Laboriosam Tenetur,Sports,25925,5,Cash on Delivery,3,129625,Amazon,10
+AMZ000240,2023-10-28,Hansh Bali,Male,Delhi,Quis Autem,Fashion,34386,3,UPI,4,103158,Amazon,10
+AMZ000241,2023-09-01,Yakshit Johal,Female,Pune,Animi Mollitia,Sports,6635,4,UPI,4,26540,Amazon,9
+AMZ000242,2023-11-09,Aniruddh Bhatti,Male,Pune,Nulla Dolorem,Books,28222,2,Credit Card,2,56444,Amazon,11
+AMZ000243,2023-09-04,Kashvi Batta,Male,Delhi,Quos Nulla,Beauty,6826,3,Net Banking,5,20478,Amazon,9
+AMZ000244,2023-07-17,Tanya Barad,Male,Chennai,Aut Quod,Home & Kitchen,3725,3,Net Banking,1,11175,Amazon,7
+AMZ000245,2023-01-07,Yashvi Bhagat,Female,Mumbai,Repellat Ut,Electronics,46007,3,Cash on Delivery,3,138021,Amazon,1
+AMZ000246,2023-03-22,Zeeshan Gole,Male,Pune,Commodi Unde,Electronics,4330,5,UPI,4,21650,Amazon,3
+AMZ000247,2023-06-15,Samarth Sastry,Female,Kolkata,Rem Odit,Books,41276,4,Net Banking,3,165104,Amazon,6
+AMZ000248,2023-02-26,Ranbir Walla,Male,Mumbai,Laborum Expedita,Home & Kitchen,7792,5,Cash on Delivery,1,38960,Amazon,2
+AMZ000249,2023-07-31,Jivika Dada,Female,Mumbai,Est Quidem,Home & Kitchen,36653,5,Debit Card,2,183265,Amazon,7
+AMZ000250,2023-10-21,Armaan Bhatnagar,Female,Pune,Cum In,Beauty,41945,1,Cash on Delivery,4,41945,Amazon,10
+AMZ000251,2023-04-04,Mannat Vasa,Male,Mumbai,Molestias Ipsum,Home & Kitchen,25134,1,UPI,3,25134,Amazon,4
+AMZ000252,2023-06-02,Aaryahi Garg,Female,Chennai,Eligendi Deleniti,Beauty,46280,5,Cash on Delivery,2,231400,Amazon,6
+AMZ000253,2023-01-25,Divit Rajan,Female,Delhi,Eligendi Quidem,Books,24867,5,Net Banking,5,124335,Amazon,1
+AMZ000254,2023-08-05,Adira Gara,Male,Chennai,Doloribus Eius,Electronics,33654,5,Net Banking,3,168270,Amazon,8
+AMZ000255,2023-02-28,Vaibhav Solanki,Male,Pune,Sint Error,Electronics,26057,4,Credit Card,4,104228,Amazon,2
+AMZ000256,2023-10-06,Saksham Wadhwa,Male,Chennai,Porro Dolorem,Books,5390,3,Debit Card,5,16170,Amazon,10
+AMZ000257,2023-11-05,Kismat Kaul,Male,Chennai,Exercitationem Recusandae,Home & Kitchen,45986,5,Net Banking,2,229930,Amazon,11
+AMZ000258,2024-01-01,Yuvraj  Balasubramanian,Male,Mumbai,Reprehenderit Voluptates,Electronics,24417,3,Cash on Delivery,5,73251,Amazon,1
+AMZ000259,2023-10-20,Tarini Varma,Female,Pune,Distinctio Quam,Sports,22323,2,Net Banking,1,44646,Amazon,10
+AMZ000260,2023-12-13,Kavya Khurana,Female,Mumbai,Cupiditate Odio,Fashion,31058,2,Cash on Delivery,1,62116,Amazon,12
+AMZ000261,2023-11-08,Piya Kale,Male,Hyderabad,Provident Impedit,Books,33652,1,Credit Card,2,33652,Amazon,11
+AMZ000262,2023-02-26,Advika Kale,Male,Delhi,Facere Quisquam,Sports,16640,1,UPI,1,16640,Amazon,2
+AMZ000263,2023-08-22,Nakul Bajwa,Male,Kolkata,Vitae Aspernatur,Electronics,42186,1,Net Banking,2,42186,Amazon,8
+AMZ000264,2023-10-03,Darshit Lal,Male,Bangalore,Veniam At,Electronics,49635,5,Debit Card,5,248175,Amazon,10
+AMZ000265,2023-09-30,Yuvraj  Hayre,Female,Bangalore,Autem Itaque,Books,23826,3,UPI,3,71478,Amazon,9
+AMZ000266,2023-02-05,Shalv Swamy,Male,Mumbai,Praesentium Esse,Books,10850,4,Net Banking,1,43400,Amazon,2
+AMZ000267,2023-05-24,Ayesha Trivedi,Female,Hyderabad,Distinctio Nostrum,Sports,30577,1,Credit Card,5,30577,Amazon,5
+AMZ000268,2023-07-11,Sumer Kala,Male,Kolkata,Et At,Electronics,1741,5,UPI,2,8705,Amazon,7
+AMZ000269,2023-10-09,Faiyaz Butala,Female,Delhi,Commodi Cupiditate,Electronics,38294,4,Credit Card,1,153176,Amazon,10
+AMZ000270,2023-08-29,Uthkarsh Bose,Female,Pune,Id Asperiores,Books,33869,2,Debit Card,3,67738,Amazon,8
+AMZ000271,2023-07-07,Seher Chanda,Male,Pune,Molestiae Vel,Sports,16606,5,Cash on Delivery,1,83030,Amazon,7
+AMZ000272,2023-07-30,Nitya Barad,Male,Delhi,Debitis Suscipit,Fashion,15190,1,Debit Card,3,15190,Amazon,7
+AMZ000273,2023-10-24,Dishani Wable,Male,Kolkata,Adipisci Voluptas,Beauty,12528,1,Debit Card,1,12528,Amazon,10
+AMZ000274,2023-07-23,Shray Atwal,Female,Kolkata,Vitae Accusantium,Books,2234,5,UPI,5,11170,Amazon,7
+AMZ000275,2023-05-05,Aradhya Trivedi,Male,Mumbai,Error Inventore,Sports,42478,3,Debit Card,4,127434,Amazon,5
+AMZ000276,2023-05-20,Gatik Kadakia,Male,Bangalore,Sint At,Electronics,20188,3,Credit Card,3,60564,Amazon,5
+AMZ000277,2023-12-30,Nakul Dani,Female,Pune,Perspiciatis Vel,Electronics,484,4,Debit Card,3,1936,Amazon,12
+AMZ000278,2023-01-20,Zara Suresh,Female,Delhi,Ea Officia,Beauty,10765,2,Net Banking,3,21530,Amazon,1
+AMZ000279,2023-03-07,Nishith Korpal,Female,Bangalore,Magnam Incidunt,Books,34001,4,Net Banking,3,136004,Amazon,3
+AMZ000280,2023-01-07,Mohanlal Ramesh,Female,Kolkata,Ducimus Possimus,Fashion,26297,4,Net Banking,2,105188,Amazon,1
+AMZ000281,2023-03-23,Uthkarsh Sharaf,Male,Chennai,Commodi Maxime,Home & Kitchen,27107,4,Net Banking,4,108428,Amazon,3
+AMZ000282,2023-11-27,Shanaya Saxena,Female,Kolkata,Rerum Expedita,Beauty,19595,3,Credit Card,3,58785,Amazon,11
+AMZ000283,2023-07-10,Ishaan Agarwal,Female,Pune,Cumque Maxime,Home & Kitchen,37460,1,UPI,3,37460,Amazon,7
+AMZ000284,2023-03-14,Zeeshan Zacharia,Female,Chennai,Dignissimos Voluptate,Home & Kitchen,29216,2,UPI,4,58432,Amazon,3
+AMZ000285,2023-02-02,Vihaan Bhasin,Male,Bangalore,Nostrum Corrupti,Books,47299,3,Debit Card,3,141897,Amazon,2
+AMZ000286,2023-08-26,Umang Chada,Female,Bangalore,Aperiam Qui,Sports,14206,5,UPI,2,71030,Amazon,8
+AMZ000287,2023-11-19,Rohan Trivedi,Male,Mumbai,Cumque Vitae,Electronics,18066,4,Debit Card,5,72264,Amazon,11
+AMZ000288,2023-04-13,Anika Bala,Female,Chennai,Voluptatibus Perspiciatis,Electronics,11218,3,Cash on Delivery,2,33654,Amazon,4
+AMZ000289,2023-08-09,Hridaan Bains,Male,Kolkata,Provident Nulla,Beauty,33497,1,Net Banking,1,33497,Amazon,8
+AMZ000290,2023-07-28,Manjari Ghose,Female,Mumbai,Consectetur Autem,Books,21394,4,Debit Card,1,85576,Amazon,7
+AMZ000291,2023-08-31,Tanya Sawhney,Male,Hyderabad,Omnis Autem,Home & Kitchen,5689,2,Debit Card,5,11378,Amazon,8
+AMZ000292,2023-12-10,Ishita Cherian,Female,Pune,Provident Dolores,Electronics,29520,1,UPI,1,29520,Amazon,12
+AMZ000293,2023-01-14,Zain Dasgupta,Female,Bangalore,Ipsum Nemo,Home & Kitchen,39017,4,Debit Card,5,156068,Amazon,1
+AMZ000294,2023-08-25,Uthkarsh Halder,Male,Delhi,Soluta Blanditiis,Electronics,27364,1,Net Banking,1,27364,Amazon,8
+AMZ000295,2023-04-20,Saira Garde,Female,Chennai,Reiciendis Reiciendis,Sports,44174,1,Credit Card,4,44174,Amazon,4
+AMZ000296,2023-08-05,Jayant Thaman,Male,Chennai,Minus Dicta,Fashion,36270,3,Cash on Delivery,5,108810,Amazon,8
+AMZ000297,2023-09-27,Bhavin Ravel,Female,Pune,Sed Alias,Fashion,33007,1,Credit Card,3,33007,Amazon,9
+AMZ000298,2023-03-17,Myra Deshmukh,Female,Bangalore,Adipisci Ad,Beauty,11001,1,Net Banking,1,11001,Amazon,3
+AMZ000299,2023-04-15,Lakshay Mandal,Female,Chennai,Recusandae Aliquam,Sports,46354,2,Debit Card,4,92708,Amazon,4
+AMZ000300,2023-07-31,Vritika Madan,Female,Chennai,Occaecati Accusamus,Fashion,24710,5,Debit Card,1,123550,Amazon,7
+AMZ000301,2023-05-30,Armaan Hayre,Female,Pune,Eos Necessitatibus,Sports,18317,2,Cash on Delivery,3,36634,Amazon,5
+AMZ000302,2023-02-04,Mehul Kar,Male,Pune,A Architecto,Electronics,31052,3,Credit Card,3,93156,Amazon,2
+AMZ000303,2023-06-18,Aradhya Chopra,Female,Pune,Odit Autem,Fashion,24618,3,Cash on Delivery,4,73854,Amazon,6
+AMZ000304,2023-11-04,Aarush Karpe,Female,Hyderabad,Mollitia Optio,Fashion,48170,4,Credit Card,5,192680,Amazon,11
+AMZ000305,2023-02-08,Myra Chauhan,Male,Bangalore,Quas Esse,Home & Kitchen,34890,4,Cash on Delivery,3,139560,Amazon,2
+AMZ000306,2023-09-06,Advik Ratti,Male,Kolkata,Quos Labore,Sports,17967,3,Cash on Delivery,2,53901,Amazon,9
+AMZ000307,2023-11-05,Damini Badami,Female,Hyderabad,Suscipit Harum,Sports,6730,1,Credit Card,5,6730,Amazon,11
+AMZ000308,2023-07-30,Inaaya  Wadhwa,Male,Mumbai,Qui Animi,Beauty,11194,4,Debit Card,4,44776,Amazon,7
+AMZ000309,2023-09-29,Tanya Desai,Male,Kolkata,Neque Nostrum,Beauty,40412,3,Cash on Delivery,5,121236,Amazon,9
+AMZ000310,2023-04-17,Nirvaan Loyal,Male,Kolkata,Molestiae Alias,Electronics,10883,4,Cash on Delivery,5,43532,Amazon,4
+AMZ000311,2023-10-21,Zeeshan Kant,Female,Kolkata,Delectus Fugit,Electronics,813,2,Debit Card,4,1626,Amazon,10
+AMZ000312,2023-03-17,Stuvan Sridhar,Male,Hyderabad,Quasi Maiores,Fashion,9063,4,UPI,2,36252,Amazon,3
+AMZ000313,2023-10-04,Rasha Sinha,Female,Hyderabad,Maxime Expedita,Sports,33202,2,Debit Card,5,66404,Amazon,10
+AMZ000314,2023-08-17,Shalv Kale,Male,Bangalore,Deserunt Magni,Home & Kitchen,12361,2,Net Banking,5,24722,Amazon,8
+AMZ000315,2023-04-10,Ishaan Kumar,Male,Bangalore,Perspiciatis Saepe,Beauty,11127,5,Debit Card,5,55635,Amazon,4
+AMZ000316,2023-09-06,Shalv Cheema,Female,Bangalore,A Nobis,Books,33620,5,Credit Card,2,168100,Amazon,9
+AMZ000317,2023-06-02,Kavya Konda,Male,Mumbai,Reprehenderit Architecto,Sports,33421,1,Credit Card,1,33421,Amazon,6
+AMZ000318,2023-11-19,Kiaan Tata,Female,Delhi,Molestiae Sunt,Home & Kitchen,28627,4,Net Banking,4,114508,Amazon,11
+AMZ000319,2023-08-08,Mahika Kohli,Male,Bangalore,Libero Voluptates,Sports,19344,5,Credit Card,3,96720,Amazon,8
+AMZ000320,2023-07-21,Romil Varughese,Male,Mumbai,Libero Excepturi,Fashion,49603,4,Credit Card,5,198412,Amazon,7
+AMZ000321,2023-06-14,Krish Baral,Female,Delhi,Expedita Omnis,Books,13981,1,Credit Card,1,13981,Amazon,6
+AMZ000322,2023-10-21,Ehsaan Singh,Male,Chennai,Quasi Soluta,Electronics,34284,2,Cash on Delivery,1,68568,Amazon,10
+AMZ000323,2023-04-04,Dharmajan Thaman,Male,Delhi,Dignissimos Excepturi,Books,8801,1,Credit Card,4,8801,Amazon,4
+AMZ000324,2023-06-21,Kiara Ghosh,Male,Bangalore,Debitis Porro,Fashion,22659,4,Credit Card,1,90636,Amazon,6
+AMZ000325,2023-03-13,Mohanlal Kulkarni,Male,Mumbai,Molestias Repellat,Sports,40970,5,Debit Card,2,204850,Amazon,3
+AMZ000326,2023-01-05,Fateh Wable,Male,Mumbai,Repellendus Corporis,Electronics,12728,2,UPI,4,25456,Amazon,1
+AMZ000327,2023-10-25,Ahana  Upadhyay,Male,Chennai,Repudiandae Explicabo,Books,14728,5,Credit Card,2,73640,Amazon,10
+AMZ000328,2023-02-22,Kartik Venkataraman,Female,Chennai,Molestias Animi,Beauty,2338,2,Debit Card,5,4676,Amazon,2
+AMZ000329,2023-04-29,Yakshit Rout,Female,Hyderabad,Laudantium Excepturi,Sports,40017,1,Debit Card,5,40017,Amazon,4
+AMZ000330,2023-05-06,Ritvik Raja,Female,Kolkata,Sed Alias,Beauty,3056,5,Cash on Delivery,3,15280,Amazon,5
+AMZ000331,2023-06-15,Nirvi Rattan,Male,Chennai,Ipsa Ratione,Books,28444,4,Debit Card,4,113776,Amazon,6
+AMZ000332,2023-03-16,Kavya Soni,Female,Pune,Aliquid Labore,Sports,26264,2,Credit Card,3,52528,Amazon,3
+AMZ000333,2023-03-17,Jhanvi Yohannan,Male,Pune,Alias Voluptatem,Beauty,21861,5,Net Banking,4,109305,Amazon,3
+AMZ000334,2023-08-12,Kashvi Lata,Female,Hyderabad,Laudantium Totam,Books,32033,2,UPI,5,64066,Amazon,8
+AMZ000335,2023-11-08,Anya Shankar,Male,Hyderabad,Quis Amet,Electronics,10506,1,UPI,5,10506,Amazon,11
+AMZ000336,2023-09-14,Zaina Sunder,Female,Mumbai,Impedit Incidunt,Sports,10263,4,UPI,4,41052,Amazon,9
+AMZ000337,2024-01-01,Gatik Sura,Male,Pune,Suscipit Accusamus,Fashion,48820,3,Net Banking,3,146460,Amazon,1
+AMZ000338,2023-08-17,Yasmin Agate,Male,Pune,Ex Molestiae,Books,17444,3,Cash on Delivery,4,52332,Amazon,8
+AMZ000339,2023-02-08,Vanya Loyal,Female,Bangalore,Quasi Labore,Fashion,27576,2,Credit Card,2,55152,Amazon,2
+AMZ000340,2023-11-18,Taran Chana,Female,Chennai,Sed Praesentium,Sports,19798,1,Debit Card,4,19798,Amazon,11
+AMZ000341,2023-09-06,Yasmin Halder,Male,Kolkata,Aut Debitis,Electronics,13394,1,UPI,5,13394,Amazon,9
+AMZ000342,2023-03-23,Anvi Cherian,Female,Kolkata,At A,Fashion,6345,4,Cash on Delivery,2,25380,Amazon,3
+AMZ000343,2023-03-25,Hazel Bahri,Male,Chennai,Cum Dolorem,Fashion,37385,1,Credit Card,4,37385,Amazon,3
+AMZ000344,2023-03-23,Biju Dani,Female,Bangalore,Praesentium Dicta,Electronics,3323,1,Credit Card,5,3323,Amazon,3
+AMZ000345,2023-07-01,Nishith Madan,Male,Hyderabad,A Incidunt,Books,49818,1,UPI,5,49818,Amazon,7
+AMZ000346,2023-08-28,Anya Tata,Female,Delhi,Numquam Blanditiis,Electronics,1657,3,Net Banking,3,4971,Amazon,8
+AMZ000347,2023-10-09,Dishani Gade,Male,Delhi,Aliquid Cupiditate,Sports,17466,1,Debit Card,2,17466,Amazon,10
+AMZ000348,2023-06-25,Oorja Bhardwaj,Male,Delhi,Cumque Voluptate,Sports,25644,2,Credit Card,2,51288,Amazon,6
+AMZ000349,2023-08-14,Aarush Gupta,Female,Pune,Sit Enim,Electronics,38351,4,UPI,2,153404,Amazon,8
+AMZ000350,2023-04-30,Amira Iyer,Female,Hyderabad,Earum Asperiores,Fashion,28857,5,Credit Card,2,144285,Amazon,4
+AMZ000351,2023-08-20,Aarna Chadha,Male,Bangalore,Deserunt Nihil,Beauty,8049,2,Cash on Delivery,3,16098,Amazon,8
+AMZ000352,2023-09-27,Hrishita Suresh,Female,Kolkata,Quidem Quo,Beauty,32463,5,UPI,3,162315,Amazon,9
+AMZ000353,2023-10-20,Taran Banerjee,Female,Bangalore,Reprehenderit Blanditiis,Fashion,21200,5,Credit Card,1,106000,Amazon,10
+AMZ000354,2023-04-17,Stuvan Walla,Female,Kolkata,Cumque In,Electronics,33498,5,Cash on Delivery,1,167490,Amazon,4
+AMZ000355,2023-11-19,Ela Thakkar,Female,Hyderabad,Ex Delectus,Books,15969,1,Credit Card,1,15969,Amazon,11
+AMZ000356,2023-07-01,Taran Shan,Female,Mumbai,A Occaecati,Books,38320,4,Debit Card,2,153280,Amazon,7
+AMZ000357,2023-04-28,Vihaan Brahmbhatt,Male,Kolkata,Iusto Accusamus,Sports,18995,3,Debit Card,4,56985,Amazon,4
+AMZ000358,2023-02-23,Kiaan Bali,Male,Bangalore,Repellat Esse,Home & Kitchen,29564,4,UPI,4,118256,Amazon,2
+AMZ000359,2023-09-06,Shanaya Karnik,Male,Kolkata,Nulla Dolor,Fashion,22190,2,Credit Card,2,44380,Amazon,9
+AMZ000360,2023-05-05,Aarna Bajwa,Male,Pune,Impedit Sed,Sports,38436,3,UPI,4,115308,Amazon,5
+AMZ000361,2023-04-13,Shanaya Bhatt,Female,Kolkata,Nisi Eum,Sports,7222,2,Cash on Delivery,3,14444,Amazon,4
+AMZ000362,2023-12-01,Renee Soman,Male,Pune,Quaerat Doloribus,Books,1279,3,Cash on Delivery,2,3837,Amazon,12
+AMZ000363,2023-02-13,Advika Das,Male,Delhi,Unde Cum,Electronics,27045,3,Credit Card,5,81135,Amazon,2
+AMZ000364,2023-01-05,Rohan Batta,Female,Bangalore,At Officiis,Electronics,30398,1,UPI,2,30398,Amazon,1
+AMZ000365,2023-06-26,Charvi Vora,Female,Delhi,Distinctio Quod,Sports,5323,5,Net Banking,4,26615,Amazon,6
+AMZ000366,2023-01-22,Tanya Dube,Female,Hyderabad,Facere Veritatis,Sports,19723,3,Cash on Delivery,4,59169,Amazon,1
+AMZ000367,2023-03-04,Vivaan Contractor,Female,Delhi,Impedit Quis,Fashion,48167,5,Debit Card,1,240835,Amazon,3
+AMZ000368,2023-01-28,Manikya Tara,Male,Bangalore,Ipsam Earum,Beauty,28693,4,Net Banking,3,114772,Amazon,1
+AMZ000369,2023-04-09,Indranil Toor,Female,Hyderabad,Ipsam Exercitationem,Books,45072,2,Debit Card,3,90144,Amazon,4
+AMZ000370,2023-03-30,Ayesha Gupta,Male,Delhi,Aperiam Inventore,Electronics,34124,2,UPI,4,68248,Amazon,3
+AMZ000371,2023-06-27,Mishti D’Alia,Male,Kolkata,Nihil Animi,Sports,29555,5,Net Banking,5,147775,Amazon,6
+AMZ000372,2023-11-30,Shray Dhar,Male,Mumbai,Minus Eligendi,Sports,5016,1,Cash on Delivery,3,5016,Amazon,11
+AMZ000373,2023-01-13,Vivaan Krishna,Male,Hyderabad,Dolorum Dicta,Home & Kitchen,34990,4,UPI,4,139960,Amazon,1
+AMZ000374,2023-09-07,Fateh Krish,Female,Kolkata,Culpa Dicta,Books,43409,5,Cash on Delivery,2,217045,Amazon,9
+AMZ000375,2023-08-05,Sara Hora,Female,Mumbai,Minima Sint,Books,12728,1,Debit Card,3,12728,Amazon,8
+AMZ000376,2023-06-04,Kimaya Wable,Male,Chennai,Velit Quidem,Sports,9553,5,UPI,5,47765,Amazon,6
+AMZ000377,2023-03-30,Anvi Chaudhary,Male,Chennai,Ipsam Aliquid,Books,41727,3,Net Banking,4,125181,Amazon,3
+AMZ000378,2023-07-31,Charvi Kant,Female,Chennai,Occaecati Impedit,Fashion,13295,4,Cash on Delivery,5,53180,Amazon,7
+AMZ000379,2023-07-25,Kanav Shetty,Male,Bangalore,Recusandae Velit,Books,13369,5,Net Banking,5,66845,Amazon,7
+AMZ000380,2023-05-04,Rhea Koshy,Female,Chennai,Est Ipsa,Fashion,31406,3,Net Banking,5,94218,Amazon,5
+AMZ000381,2023-11-20,Dhanuk Kale,Male,Chennai,Officiis Vel,Home & Kitchen,11101,5,Net Banking,5,55505,Amazon,11
+AMZ000382,2023-11-20,Divyansh Comar,Female,Pune,Et Veritatis,Home & Kitchen,14888,1,Credit Card,1,14888,Amazon,11
+AMZ000383,2023-12-14,Taran Bedi,Male,Pune,Earum Voluptates,Beauty,13301,4,Credit Card,4,53204,Amazon,12
+AMZ000384,2023-11-19,Divit Bal,Male,Chennai,Sint Alias,Books,12434,4,Net Banking,5,49736,Amazon,11
+AMZ000385,2023-08-27,Amira Varty,Female,Kolkata,Quasi Alias,Fashion,41514,1,Net Banking,1,41514,Amazon,8
+AMZ000386,2023-02-22,Pari Iyengar,Male,Mumbai,Expedita Sed,Electronics,20432,5,Net Banking,4,102160,Amazon,2
+AMZ000387,2023-08-27,Jivika Mani,Female,Hyderabad,Culpa Fuga,Sports,3517,2,UPI,2,7034,Amazon,8
+AMZ000388,2023-11-07,Mehul Aggarwal,Male,Delhi,Id Quod,Sports,14618,4,Net Banking,1,58472,Amazon,11
+AMZ000389,2023-12-16,Ishita Bhardwaj,Female,Bangalore,Enim Minus,Beauty,579,4,Cash on Delivery,1,2316,Amazon,12
+AMZ000390,2023-12-24,Ehsaan Goel,Male,Bangalore,Atque Aliquam,Beauty,1660,3,Cash on Delivery,2,4980,Amazon,12
+AMZ000391,2023-01-20,Madhup Sekhon,Female,Mumbai,Minima Nostrum,Electronics,23043,1,Cash on Delivery,5,23043,Amazon,1
+AMZ000392,2023-08-09,Parinaaz Rattan,Male,Mumbai,Esse Harum,Sports,40834,3,Credit Card,2,122502,Amazon,8
+AMZ000393,2023-10-01,Tiya Loyal,Male,Hyderabad,Eveniet Itaque,Fashion,30470,3,UPI,1,91410,Amazon,10
+AMZ000394,2023-10-13,Sumer Suresh,Female,Delhi,Dignissimos Dolor,Home & Kitchen,11505,1,Net Banking,2,11505,Amazon,10
+AMZ000395,2023-08-19,Ivana Kata,Female,Pune,Aut Mollitia,Sports,44382,3,Net Banking,5,133146,Amazon,8
+AMZ000396,2023-02-18,Kavya Sachdev,Female,Kolkata,Possimus Animi,Beauty,40297,4,Debit Card,4,161188,Amazon,2
+AMZ000397,2023-04-21,Lavanya Cheema,Female,Kolkata,Architecto Molestiae,Fashion,38047,3,Cash on Delivery,3,114141,Amazon,4
+AMZ000398,2023-12-02,Rasha Rajan,Male,Pune,Autem Ab,Sports,22309,3,Credit Card,3,66927,Amazon,12
+AMZ000399,2023-02-20,Shanaya Mann,Male,Bangalore,Fugiat Voluptates,Electronics,1681,2,Debit Card,3,3362,Amazon,2
+AMZ000400,2023-05-21,Rhea Sani,Female,Kolkata,Esse Ea,Beauty,4953,2,Credit Card,1,9906,Amazon,5
+AMZ000401,2023-10-16,Shlok Korpal,Female,Hyderabad,Asperiores Aut,Books,8503,2,Cash on Delivery,4,17006,Amazon,10
+AMZ000402,2023-06-23,Aniruddh Sarraf,Male,Delhi,Eius Suscipit,Beauty,5361,3,Net Banking,2,16083,Amazon,6
+AMZ000403,2023-03-16,Aaina Mane,Female,Bangalore,Voluptas Dolorem,Beauty,19936,3,Credit Card,1,59808,Amazon,3
+AMZ000404,2023-09-22,Damini Bakshi,Female,Delhi,Quam Aut,Electronics,26900,5,Net Banking,3,134500,Amazon,9
+AMZ000405,2023-11-30,Fateh Madan,Male,Pune,Deleniti Vel,Electronics,39121,3,Net Banking,2,117363,Amazon,11
+AMZ000406,2023-07-11,Madhav Reddy,Female,Pune,Consequatur Odit,Sports,12231,1,Cash on Delivery,3,12231,Amazon,7
+AMZ000407,2023-02-03,Misha Bath,Male,Delhi,Eligendi Cumque,Books,32439,5,Net Banking,5,162195,Amazon,2
+AMZ000408,2023-11-10,Adira Borah,Male,Hyderabad,Aperiam Qui,Books,29108,2,UPI,5,58216,Amazon,11
+AMZ000409,2023-04-06,Urvi Bail,Female,Hyderabad,Voluptatum Ducimus,Beauty,43450,1,UPI,2,43450,Amazon,4
+AMZ000410,2023-10-22,Eshani Deep,Male,Mumbai,Vero Eius,Fashion,26282,4,UPI,5,105128,Amazon,10
+AMZ000411,2023-05-20,Urvi Ramaswamy,Male,Pune,Quasi Consequatur,Sports,30260,4,Net Banking,1,121040,Amazon,5
+AMZ000412,2023-12-13,Ishaan Sekhon,Male,Pune,Porro Fuga,Electronics,9852,1,Cash on Delivery,5,9852,Amazon,12
+AMZ000413,2023-07-26,Jivika Guha,Male,Mumbai,Animi Facilis,Beauty,49013,5,UPI,1,245065,Amazon,7
+AMZ000414,2023-10-21,Nirvaan Dutta,Male,Pune,At Voluptas,Sports,26515,5,UPI,3,132575,Amazon,10
+AMZ000415,2023-06-12,Yakshit Saraf,Male,Pune,Cupiditate Velit,Electronics,37924,4,UPI,1,151696,Amazon,6
+AMZ000416,2023-08-20,Eva Varty,Male,Bangalore,Repellat Praesentium,Electronics,41747,5,Net Banking,3,208735,Amazon,8
+AMZ000417,2023-11-04,Keya Mall,Female,Chennai,Iure Libero,Beauty,47103,4,Cash on Delivery,3,188412,Amazon,11
+AMZ000418,2023-09-17,Akarsh Singh,Male,Kolkata,Commodi Quibusdam,Books,9320,5,Credit Card,4,46600,Amazon,9
+AMZ000419,2023-08-26,Pranay Din,Male,Kolkata,Voluptate Mollitia,Books,18046,2,Debit Card,2,36092,Amazon,8
+AMZ000420,2023-03-27,Shalv Sawhney,Male,Chennai,Praesentium Necessitatibus,Books,23879,1,Cash on Delivery,3,23879,Amazon,3
+AMZ000421,2023-02-05,Urvi Chanda,Female,Hyderabad,Facere Inventore,Electronics,46756,4,UPI,3,187024,Amazon,2
+AMZ000422,2023-06-11,Aaryahi Srivastava,Male,Hyderabad,Unde Suscipit,Fashion,7580,1,Cash on Delivery,5,7580,Amazon,6
+AMZ000423,2023-09-09,Fateh Dora,Male,Hyderabad,Facere Voluptates,Electronics,43852,2,Debit Card,1,87704,Amazon,9
+AMZ000424,2023-08-11,Aaryahi Apte,Male,Pune,Quas Consectetur,Books,13134,3,UPI,3,39402,Amazon,8
+AMZ000425,2023-08-26,Madhup Raju,Male,Mumbai,Nulla Nesciunt,Electronics,6623,1,UPI,3,6623,Amazon,8
+AMZ000426,2023-05-03,Yuvaan Jain,Female,Chennai,Ab Similique,Books,5549,1,Cash on Delivery,4,5549,Amazon,5
+AMZ000427,2023-07-11,Priyansh Khalsa,Female,Bangalore,Cupiditate Facere,Electronics,44109,3,UPI,4,132327,Amazon,7
+AMZ000428,2023-01-02,Shanaya Wason,Female,Chennai,Facere Animi,Electronics,14501,5,Credit Card,5,72505,Amazon,1
+AMZ000429,2023-04-16,Parinaaz Dara,Female,Mumbai,Quis Laudantium,Sports,44571,2,Cash on Delivery,1,89142,Amazon,4
+AMZ000430,2023-01-14,Arnav Subramaniam,Male,Hyderabad,Ex Voluptatum,Electronics,41645,3,Credit Card,3,124935,Amazon,1
+AMZ000431,2023-03-25,Tara Bobal,Male,Chennai,Quisquam Ratione,Books,28065,2,Net Banking,1,56130,Amazon,3
+AMZ000432,2023-08-29,Mishti Som,Female,Delhi,Dolor Sunt,Beauty,25262,5,Debit Card,4,126310,Amazon,8
+AMZ000433,2023-02-01,Taimur Kara,Female,Pune,In Alias,Fashion,20217,2,Credit Card,3,40434,Amazon,2
+AMZ000434,2023-07-05,Taran Deep,Male,Hyderabad,Eaque Vitae,Beauty,49350,4,Net Banking,5,197400,Amazon,7
+AMZ000435,2023-04-20,Zoya Dalal,Male,Kolkata,Dolorem Quos,Fashion,4943,2,Credit Card,5,9886,Amazon,4
+AMZ000436,2023-11-16,Anahi Ahluwalia,Male,Pune,Iure Cumque,Home & Kitchen,15839,3,Debit Card,4,47517,Amazon,11
+AMZ000437,2023-08-15,Sara Reddy,Female,Pune,Numquam Dignissimos,Electronics,37450,4,Debit Card,3,149800,Amazon,8
+AMZ000438,2023-12-04,Kaira Saxena,Female,Pune,Aliquid Voluptates,Electronics,16161,3,Debit Card,2,48483,Amazon,12
+AMZ000439,2023-04-24,Darshit Kanda,Female,Kolkata,Saepe Totam,Home & Kitchen,35639,2,Credit Card,3,71278,Amazon,4
+AMZ000440,2023-12-24,Shray Kata,Male,Pune,Amet Laborum,Electronics,21577,4,UPI,5,86308,Amazon,12
+AMZ000441,2023-01-21,Lavanya Varty,Male,Pune,Cumque Reprehenderit,Electronics,4550,1,Net Banking,5,4550,Amazon,1
+AMZ000442,2023-09-02,Shayak Dar,Male,Delhi,Iure Alias,Electronics,39536,4,Net Banking,5,158144,Amazon,9
+AMZ000443,2023-11-18,Jayan Ramakrishnan,Male,Hyderabad,Nam Aliquam,Sports,37847,2,Debit Card,4,75694,Amazon,11
+AMZ000444,2023-09-18,Veer Samra,Male,Kolkata,Quisquam Placeat,Books,49727,1,UPI,3,49727,Amazon,9
+AMZ000445,2023-03-16,Saira Bhat,Female,Hyderabad,Earum Ducimus,Home & Kitchen,37777,1,Debit Card,2,37777,Amazon,3
+AMZ000446,2023-02-09,Abram Bandi,Female,Delhi,Eligendi Illum,Beauty,39589,3,UPI,4,118767,Amazon,2
+AMZ000447,2023-07-09,Devansh Acharya,Male,Mumbai,Saepe Doloribus,Beauty,16534,4,Cash on Delivery,3,66136,Amazon,7
+AMZ000448,2023-08-11,Neysa Bhattacharyya,Male,Bangalore,Inventore Eligendi,Sports,14377,5,Net Banking,4,71885,Amazon,8
+AMZ000449,2023-03-31,Lakshay Mane,Female,Delhi,Molestiae Nulla,Sports,18411,1,Credit Card,5,18411,Amazon,3
+AMZ000450,2023-06-05,Anya Joshi,Male,Chennai,Veniam Iusto,Books,35440,1,Net Banking,2,35440,Amazon,6
+AMZ000451,2023-12-05,Baiju Seth,Male,Chennai,Explicabo Ea,Electronics,26183,1,Debit Card,4,26183,Amazon,12
+AMZ000452,2023-03-29,Sumer Vig,Male,Mumbai,Accusantium Recusandae,Books,6163,4,Credit Card,3,24652,Amazon,3
+AMZ000453,2023-12-23,Raunak Khatri,Female,Mumbai,Deserunt Officia,Books,41226,2,Cash on Delivery,3,82452,Amazon,12
+AMZ000454,2023-11-17,Anahita Kadakia,Male,Hyderabad,Veritatis Omnis,Beauty,5470,3,Debit Card,1,16410,Amazon,11
+AMZ000455,2023-11-27,Madhav Butala,Male,Mumbai,Itaque Dolor,Books,3090,3,UPI,2,9270,Amazon,11
+AMZ000456,2023-10-27,Sara Bobal,Female,Mumbai,Aut Eveniet,Electronics,37267,1,Cash on Delivery,3,37267,Amazon,10
+AMZ000457,2023-01-12,Advika Sharaf,Male,Kolkata,Nulla Exercitationem,Books,28139,4,Net Banking,4,112556,Amazon,1
+AMZ000458,2023-05-16,Trisha Gokhale,Male,Delhi,Esse Dolor,Fashion,47754,1,Net Banking,5,47754,Amazon,5
+AMZ000459,2023-06-10,Anaya Sachdev,Male,Bangalore,Incidunt Fugit,Home & Kitchen,20840,2,Debit Card,3,41680,Amazon,6
+AMZ000460,2023-08-20,Sumer Srinivas,Female,Bangalore,Impedit Officia,Electronics,14167,5,Net Banking,5,70835,Amazon,8
+AMZ000461,2023-06-08,Ahana  Bail,Female,Kolkata,Necessitatibus Beatae,Books,19672,2,Cash on Delivery,3,39344,Amazon,6
+AMZ000462,2023-01-26,Hrishita Dani,Female,Chennai,Officia Dolorum,Beauty,41638,3,Credit Card,2,124914,Amazon,1
+AMZ000463,2023-03-18,Stuvan Lalla,Male,Kolkata,Et Molestias,Home & Kitchen,3604,2,Cash on Delivery,5,7208,Amazon,3
+AMZ000464,2023-10-25,Rati Behl,Female,Bangalore,Inventore Impedit,Electronics,4024,2,Net Banking,3,8048,Amazon,10
+AMZ000465,2023-09-28,Emir Dutta,Female,Pune,Autem Quae,Electronics,39766,5,UPI,1,198830,Amazon,9
+AMZ000466,2023-09-03,Ela Dixit,Male,Bangalore,Similique Excepturi,Fashion,10542,2,Debit Card,4,21084,Amazon,9
+AMZ000467,2023-12-27,Ayesha Sankaran,Male,Delhi,Aliquam Amet,Electronics,28297,3,Credit Card,5,84891,Amazon,12
+AMZ000468,2023-04-15,Jivika Chhabra,Male,Delhi,Iste Quod,Beauty,28212,3,Debit Card,2,84636,Amazon,4
+AMZ000469,2023-12-20,Arnav Jhaveri,Female,Chennai,Qui Recusandae,Books,26399,5,Net Banking,1,131995,Amazon,12
+AMZ000470,2023-12-17,Raunak Dugar,Female,Chennai,Voluptate Autem,Books,4137,2,Debit Card,5,8274,Amazon,12
+AMZ000471,2023-05-13,Kaira Lall,Male,Chennai,Officiis Alias,Beauty,14149,3,Cash on Delivery,2,42447,Amazon,5
+AMZ000472,2023-02-18,Badal Dass,Male,Bangalore,Odit Eos,Fashion,11076,4,Net Banking,3,44304,Amazon,2
+AMZ000473,2023-11-07,Amani Chopra,Male,Mumbai,Et Recusandae,Books,26598,5,Debit Card,4,132990,Amazon,11
+AMZ000474,2023-09-02,Onkar Deep,Male,Kolkata,Reprehenderit Quae,Fashion,39485,2,UPI,4,78970,Amazon,9
+AMZ000475,2023-10-22,Hazel Sule,Male,Mumbai,Facilis Hic,Beauty,22560,2,Debit Card,3,45120,Amazon,10
+AMZ000476,2023-11-29,Zaina Johal,Male,Hyderabad,Vero Illum,Fashion,26408,3,Net Banking,5,79224,Amazon,11
+AMZ000477,2023-10-10,Nakul Vora,Female,Bangalore,Sint Itaque,Home & Kitchen,31874,1,Net Banking,3,31874,Amazon,10
+AMZ000478,2023-03-27,Renee Kulkarni,Female,Hyderabad,Ipsam Voluptatem,Beauty,11695,5,Credit Card,4,58475,Amazon,3
+AMZ000479,2023-10-05,Dishani Majumdar,Female,Delhi,Quaerat Reprehenderit,Fashion,27655,3,Cash on Delivery,1,82965,Amazon,10
+AMZ000480,2023-12-13,Manikya Kuruvilla,Male,Delhi,Soluta Incidunt,Beauty,3658,5,Debit Card,4,18290,Amazon,12
+AMZ000481,2023-11-28,Jhanvi Kari,Female,Mumbai,Dolorem Aspernatur,Fashion,4835,4,Debit Card,3,19340,Amazon,11
+AMZ000482,2023-08-25,Pihu Ganesh,Female,Chennai,Quidem Praesentium,Sports,19751,2,UPI,3,39502,Amazon,8
+AMZ000483,2023-07-26,Ahana  Shanker,Female,Pune,Necessitatibus Corporis,Fashion,33029,5,Cash on Delivery,3,165145,Amazon,7
+AMZ000484,2023-11-01,Zeeshan Warrior,Female,Chennai,Debitis Omnis,Sports,48382,5,Cash on Delivery,4,241910,Amazon,11
+AMZ000485,2023-12-10,Nirvi Shroff,Female,Bangalore,Nobis Aut,Beauty,29340,1,Debit Card,3,29340,Amazon,12
+AMZ000486,2023-03-06,Pari Kaul,Female,Bangalore,Rem Esse,Sports,17079,5,Credit Card,2,85395,Amazon,3
+AMZ000487,2023-08-29,Shray Ramanathan,Female,Mumbai,Quae Doloribus,Home & Kitchen,25618,5,Credit Card,5,128090,Amazon,8
+AMZ000488,2023-10-04,Dhanush Sodhi,Male,Pune,Adipisci Repellendus,Beauty,19000,4,Debit Card,3,76000,Amazon,10
+AMZ000489,2023-10-15,Yasmin Jha,Male,Hyderabad,Quos Cumque,Books,35518,2,Cash on Delivery,3,71036,Amazon,10
+AMZ000490,2023-01-07,Miraya Sem,Male,Delhi,Porro Officia,Books,39967,2,Debit Card,2,79934,Amazon,1
+AMZ000491,2023-03-16,Shayak Gaba,Male,Mumbai,Ea At,Home & Kitchen,18894,3,Debit Card,4,56682,Amazon,3
+AMZ000492,2023-08-31,Advik Taneja,Male,Delhi,Error Numquam,Beauty,601,5,Cash on Delivery,5,3005,Amazon,8
+AMZ000493,2023-05-01,Tara Sandhu,Female,Hyderabad,Ratione Nulla,Sports,45760,5,Credit Card,1,228800,Amazon,5
+AMZ000494,2023-08-15,Advik Kashyap,Male,Hyderabad,Asperiores Aut,Sports,21669,4,Debit Card,5,86676,Amazon,8
+AMZ000495,2023-02-03,Ishaan Wadhwa,Male,Mumbai,Ratione Architecto,Sports,33367,5,Cash on Delivery,4,166835,Amazon,2
+AMZ000496,2023-06-10,Aarav Ravel,Male,Kolkata,Nulla Accusantium,Home & Kitchen,39092,5,Cash on Delivery,2,195460,Amazon,6
+AMZ000497,2023-12-20,Advik Chada,Female,Pune,Aspernatur Fugit,Beauty,32763,1,Debit Card,3,32763,Amazon,12
+AMZ000498,2023-10-13,Devansh Maharaj,Female,Delhi,Architecto Animi,Books,11374,2,Credit Card,4,22748,Amazon,10
+AMZ000499,2023-05-01,Neelofar Tandon,Male,Bangalore,Quibusdam Eveniet,Fashion,47989,2,Credit Card,4,95978,Amazon,5
+AMZ000500,2023-11-13,Tara Halder,Female,Pune,Exercitationem Totam,Fashion,4697,5,Net Banking,1,23485,Amazon,11
+AMZ000501,2023-01-11,Parinaaz Suri,Female,Pune,A Itaque,Fashion,18849,3,Cash on Delivery,3,56547,Amazon,1
+AMZ000502,2023-07-31,Anika Gola,Female,Bangalore,Aspernatur Assumenda,Fashion,47238,1,Credit Card,4,47238,Amazon,7
+AMZ000503,2023-04-17,Ayesha Vohra,Female,Pune,Eveniet Beatae,Home & Kitchen,48902,3,Net Banking,1,146706,Amazon,4
+AMZ000504,2023-03-14,Keya Jani,Female,Chennai,Officiis Cupiditate,Books,31942,3,Credit Card,4,95826,Amazon,3
+AMZ000505,2023-12-01,Adah Desai,Female,Delhi,Repellendus Assumenda,Books,40384,5,Cash on Delivery,3,201920,Amazon,12
+AMZ000506,2023-10-18,Kimaya Gulati,Male,Pune,Earum Vitae,Fashion,41708,4,Credit Card,3,166832,Amazon,10
+AMZ000507,2023-02-09,Adira Sinha,Male,Hyderabad,Magni Reiciendis,Beauty,38392,5,Net Banking,4,191960,Amazon,2
+AMZ000508,2023-09-26,Diya Thaman,Female,Hyderabad,Quasi Quasi,Electronics,34510,1,Net Banking,2,34510,Amazon,9
+AMZ000509,2023-09-08,Aarav Johal,Male,Delhi,Nam Atque,Beauty,3175,2,UPI,5,6350,Amazon,9
+AMZ000510,2023-10-01,Urvi Bhatia,Female,Mumbai,Quas Iusto,Beauty,10505,1,Debit Card,4,10505,Amazon,10
+AMZ000511,2023-08-26,Ojas Saxena,Male,Delhi,Adipisci Quisquam,Home & Kitchen,37013,3,Credit Card,3,111039,Amazon,8
+AMZ000512,2023-03-29,Veer Dyal,Male,Chennai,Nesciunt Quia,Fashion,27815,1,Cash on Delivery,5,27815,Amazon,3
+AMZ000513,2023-02-08,Jivika Contractor,Male,Hyderabad,Reprehenderit Laborum,Home & Kitchen,48729,1,Debit Card,3,48729,Amazon,2
+AMZ000514,2023-03-23,Vivaan Bhasin,Male,Pune,Reiciendis Animi,Sports,35225,5,Cash on Delivery,1,176125,Amazon,3
+AMZ000515,2023-10-02,Tejas Bhargava,Male,Bangalore,Vel Quas,Books,12647,3,Debit Card,2,37941,Amazon,10
+AMZ000516,2023-01-05,Shalv Raval,Female,Hyderabad,Iusto Saepe,Sports,8579,4,UPI,1,34316,Amazon,1
+AMZ000517,2023-02-06,Shlok Kanda,Male,Kolkata,Id Quas,Fashion,22913,2,Net Banking,3,45826,Amazon,2
+AMZ000518,2023-08-26,Suhana Shan,Male,Hyderabad,Ea Beatae,Electronics,36439,3,UPI,5,109317,Amazon,8
+AMZ000519,2023-04-30,Anya Mannan,Female,Pune,Ipsam Nostrum,Books,38993,1,Net Banking,4,38993,Amazon,4
+AMZ000520,2023-07-31,Trisha Chhabra,Male,Delhi,Sunt Voluptatum,Fashion,29631,1,UPI,5,29631,Amazon,7
+AMZ000521,2023-04-13,Sumer Mane,Female,Bangalore,Placeat Nobis,Sports,11040,2,Credit Card,1,22080,Amazon,4
+AMZ000522,2023-06-24,Kismat Malhotra,Male,Hyderabad,Quisquam Aliquid,Sports,3056,2,UPI,1,6112,Amazon,6
+AMZ000523,2023-11-04,Baiju Saraf,Male,Kolkata,Fugit Quae,Books,40678,1,Net Banking,2,40678,Amazon,11
+AMZ000524,2023-07-24,Reyansh Bhagat,Male,Pune,Commodi Iure,Electronics,35140,3,Net Banking,5,105420,Amazon,7
+AMZ000525,2023-02-16,Kanav Kulkarni,Female,Mumbai,Ab Saepe,Beauty,37570,1,Debit Card,4,37570,Amazon,2
+AMZ000526,2023-01-30,Pranay Raja,Female,Delhi,Officia Iusto,Sports,27761,2,UPI,2,55522,Amazon,1
+AMZ000527,2023-03-12,Mishti Tata,Female,Chennai,Dolor Quaerat,Sports,490,5,Net Banking,1,2450,Amazon,3
+AMZ000528,2023-03-06,Sahil Dayal,Male,Chennai,Animi Minus,Home & Kitchen,30038,2,UPI,3,60076,Amazon,3
+AMZ000529,2023-02-19,Suhana Dar,Female,Chennai,Impedit Et,Beauty,1427,5,Credit Card,4,7135,Amazon,2
+AMZ000530,2023-06-21,Trisha Raj,Male,Hyderabad,Est Dicta,Electronics,19164,1,Cash on Delivery,3,19164,Amazon,6
+AMZ000531,2023-02-01,Shlok Gade,Male,Kolkata,Error Pariatur,Fashion,7538,4,UPI,5,30152,Amazon,2
+AMZ000532,2023-09-14,Onkar Ray,Male,Mumbai,Enim Alias,Sports,13584,1,UPI,3,13584,Amazon,9
+AMZ000533,2023-04-22,Ishita Koshy,Female,Mumbai,Veritatis Sit,Beauty,11144,2,Debit Card,4,22288,Amazon,4
+AMZ000534,2023-09-12,Piya Sane,Female,Mumbai,Deserunt Minus,Beauty,7195,3,Debit Card,1,21585,Amazon,9
+AMZ000535,2023-04-12,Anvi Khosla,Female,Bangalore,Expedita Quo,Sports,40757,2,UPI,1,81514,Amazon,4
+AMZ000536,2023-09-22,Vihaan Chawla,Male,Bangalore,Exercitationem Commodi,Beauty,18807,4,Debit Card,2,75228,Amazon,9
+AMZ000537,2023-01-23,Siya Sibal,Female,Hyderabad,Minus Nihil,Electronics,11791,1,Net Banking,4,11791,Amazon,1
+AMZ000538,2023-09-06,Alia Chaudhari,Male,Mumbai,Neque Nam,Electronics,45124,3,Debit Card,3,135372,Amazon,9
+AMZ000539,2023-06-13,Anvi Sekhon,Female,Mumbai,Sequi Molestias,Beauty,39222,1,Net Banking,4,39222,Amazon,6
+AMZ000540,2023-04-10,Ranbir Subramanian,Female,Pune,Velit Pariatur,Home & Kitchen,17707,4,Net Banking,2,70828,Amazon,4
+AMZ000541,2023-10-02,Yuvraj  Badal,Male,Mumbai,Hic Molestias,Beauty,23621,4,Net Banking,4,94484,Amazon,10
+AMZ000542,2023-12-01,Manikya Sengupta,Female,Delhi,At Hic,Electronics,44892,4,Cash on Delivery,2,179568,Amazon,12
+AMZ000543,2023-12-22,Nirvaan Sami,Female,Bangalore,Aperiam Iure,Beauty,39580,3,Debit Card,4,118740,Amazon,12
+AMZ000544,2023-08-22,Darshit Sagar,Male,Mumbai,Fugiat Repellat,Home & Kitchen,16498,5,Credit Card,4,82490,Amazon,8
+AMZ000545,2023-12-25,Purab Sheth,Female,Hyderabad,Culpa Itaque,Fashion,23227,2,UPI,5,46454,Amazon,12
+AMZ000546,2023-04-29,Jayan Srinivasan,Female,Delhi,Aspernatur Natus,Books,45051,1,Cash on Delivery,2,45051,Amazon,4
+AMZ000547,2023-12-12,Drishya Shukla,Female,Delhi,Officiis Error,Fashion,15644,4,Debit Card,4,62576,Amazon,12
+AMZ000548,2023-02-22,Bhavin Chada,Female,Delhi,Placeat Illum,Books,45418,5,Cash on Delivery,1,227090,Amazon,2
+AMZ000549,2023-05-28,Ranbir Goda,Male,Chennai,Numquam Tenetur,Beauty,22707,5,Credit Card,2,113535,Amazon,5
+AMZ000550,2023-02-07,Amani Dora,Female,Hyderabad,Et Et,Home & Kitchen,13232,3,UPI,1,39696,Amazon,2
+AMZ000551,2023-07-17,Faiyaz Loke,Male,Mumbai,Rem Iusto,Home & Kitchen,1341,5,Cash on Delivery,2,6705,Amazon,7
+AMZ000552,2023-06-15,Indrajit Saini,Male,Pune,Natus Cum,Books,22195,3,Net Banking,4,66585,Amazon,6
+AMZ000553,2023-06-28,Ritvik Basu,Female,Hyderabad,Aliquid Aliquam,Beauty,41506,4,Net Banking,2,166024,Amazon,6
+AMZ000554,2023-01-21,Vidur Bhandari,Female,Kolkata,Quam Qui,Fashion,18436,5,Net Banking,3,92180,Amazon,1
+AMZ000555,2023-08-02,Samiha Choudhry,Male,Delhi,Quam Consequuntur,Beauty,10009,2,Net Banking,5,20018,Amazon,8
+AMZ000556,2023-03-21,Kaira Badal,Male,Pune,Harum Veniam,Beauty,20017,2,Cash on Delivery,1,40034,Amazon,3
+AMZ000557,2023-11-02,Vedika Sarin,Female,Pune,Corporis Dicta,Beauty,18444,1,Net Banking,3,18444,Amazon,11
+AMZ000558,2023-04-10,Ehsaan Bains,Male,Delhi,Impedit Explicabo,Books,36165,5,UPI,2,180825,Amazon,4
+AMZ000559,2023-09-21,Prisha Rajagopalan,Female,Kolkata,Doloremque Necessitatibus,Fashion,3052,1,Net Banking,2,3052,Amazon,9
+AMZ000560,2023-06-20,Emir Raman,Female,Hyderabad,Repudiandae Accusantium,Fashion,4124,2,Credit Card,4,8248,Amazon,6
+AMZ000561,2023-06-21,Tarini Jani,Male,Kolkata,Sapiente Ex,Electronics,549,3,UPI,4,1647,Amazon,6
+AMZ000562,2023-01-17,Anaya Ravi,Male,Bangalore,Repellat Quis,Sports,26157,4,Credit Card,5,104628,Amazon,1
+AMZ000563,2023-12-26,Aniruddh Bahl,Female,Chennai,Neque Aliquid,Electronics,31820,4,Net Banking,4,127280,Amazon,12
+AMZ000564,2023-03-31,Drishya Sant,Male,Delhi,Ratione Esse,Books,45010,2,Credit Card,3,90020,Amazon,3
+AMZ000565,2023-12-16,Shaan Tailor,Male,Mumbai,Ex Accusamus,Fashion,31968,4,Cash on Delivery,2,127872,Amazon,12
+AMZ000566,2023-05-26,Tarini Sarin,Female,Hyderabad,Incidunt Nostrum,Books,13027,1,Debit Card,3,13027,Amazon,5
+AMZ000567,2023-04-26,Fateh Mand,Female,Hyderabad,Facere Fugit,Sports,46263,3,Net Banking,2,138789,Amazon,4
+AMZ000568,2023-06-01,Dishani Jha,Male,Hyderabad,Hic Deserunt,Electronics,45337,2,Cash on Delivery,5,90674,Amazon,6
+AMZ000569,2023-05-24,Trisha Bansal,Female,Chennai,Labore Aliquid,Books,32690,1,Net Banking,1,32690,Amazon,5
+AMZ000570,2023-07-02,Miraya Badami,Female,Hyderabad,Ducimus Beatae,Electronics,12076,1,Net Banking,3,12076,Amazon,7
+AMZ000571,2023-10-06,Madhav Mand,Female,Kolkata,Expedita Porro,Electronics,19538,2,Net Banking,4,39076,Amazon,10
+AMZ000572,2023-06-28,Miraan Sinha,Male,Chennai,Cumque Nesciunt,Sports,839,1,Credit Card,1,839,Amazon,6
+AMZ000573,2023-02-23,Lavanya Bhat,Female,Chennai,Perferendis Vel,Beauty,24417,2,Cash on Delivery,1,48834,Amazon,2
+AMZ000574,2023-01-31,Anahita Kota,Female,Delhi,Vel Laudantium,Home & Kitchen,26537,4,Net Banking,2,106148,Amazon,1
+AMZ000575,2023-01-27,Kimaya Roy,Male,Kolkata,Repellat Fugiat,Fashion,6860,5,Net Banking,4,34300,Amazon,1
+AMZ000576,2023-07-15,Hiran Chhabra,Male,Bangalore,Tempore Inventore,Electronics,23141,1,Cash on Delivery,3,23141,Amazon,7
+AMZ000577,2023-09-04,Neysa Barad,Male,Mumbai,Quo Sequi,Beauty,20055,4,Net Banking,5,80220,Amazon,9
+AMZ000578,2023-04-12,Kimaya Singh,Male,Mumbai,Doloremque Maiores,Books,44681,2,Debit Card,1,89362,Amazon,4
+AMZ000579,2023-05-12,Himmat Salvi,Male,Chennai,Accusamus Eligendi,Beauty,46794,1,Debit Card,1,46794,Amazon,5
+AMZ000580,2023-12-27,Jivika Chander,Male,Hyderabad,Nostrum Fuga,Beauty,40634,1,Net Banking,5,40634,Amazon,12
+AMZ000581,2023-01-28,Ivana Datta,Female,Delhi,Porro Aut,Fashion,44660,5,Net Banking,5,223300,Amazon,1
+AMZ000582,2023-01-19,Advik Verma,Male,Mumbai,Optio Velit,Home & Kitchen,19016,3,UPI,1,57048,Amazon,1
+AMZ000583,2023-12-19,Dhruv Badami,Female,Pune,Culpa Voluptatum,Home & Kitchen,45950,5,Net Banking,1,229750,Amazon,12
+AMZ000584,2023-09-15,Divij Setty,Male,Bangalore,Tempora Incidunt,Electronics,16967,1,UPI,3,16967,Amazon,9
+AMZ000585,2023-01-27,Nishith Bhargava,Male,Delhi,Quod Temporibus,Fashion,29780,4,Credit Card,4,119120,Amazon,1
+AMZ000586,2023-11-10,Misha Gara,Female,Delhi,Voluptates Voluptatibus,Books,30757,1,Cash on Delivery,5,30757,Amazon,11
+AMZ000587,2023-04-08,Samar Wadhwa,Male,Delhi,Molestiae Tempore,Books,9563,2,Debit Card,1,19126,Amazon,4
+AMZ000588,2023-03-04,Vanya Gole,Male,Chennai,Temporibus Facilis,Beauty,14597,4,Credit Card,4,58388,Amazon,3
+AMZ000589,2023-04-01,Nitya Sinha,Male,Bangalore,Dicta Nisi,Electronics,29820,1,Debit Card,4,29820,Amazon,4
+AMZ000590,2023-03-01,Yakshit Biswas,Female,Bangalore,Doloremque Impedit,Beauty,30234,1,UPI,1,30234,Amazon,3
+AMZ000591,2023-10-02,Divit Rattan,Male,Kolkata,Tempora Eaque,Home & Kitchen,25060,3,UPI,3,75180,Amazon,10
+AMZ000592,2023-01-13,Divyansh Mangat,Male,Bangalore,Odit Minus,Fashion,9186,1,Net Banking,1,9186,Amazon,1
+AMZ000593,2023-12-08,Ivan Anand,Female,Chennai,Similique Incidunt,Sports,20668,2,Cash on Delivery,4,41336,Amazon,12
+AMZ000594,2023-03-25,Diya Bath,Male,Delhi,Accusantium Nihil,Sports,49437,1,Cash on Delivery,4,49437,Amazon,3
+AMZ000595,2023-05-09,Piya Gade,Female,Delhi,Vel Quod,Beauty,8806,2,Debit Card,4,17612,Amazon,5
+AMZ000596,2023-11-13,Nakul Ghosh,Male,Pune,Aspernatur Exercitationem,Electronics,17141,4,Debit Card,1,68564,Amazon,11
+AMZ000597,2023-12-24,Tarini Shere,Female,Bangalore,Fugiat Aut,Books,13734,4,Cash on Delivery,4,54936,Amazon,12
+AMZ000598,2023-03-24,Keya Dutt,Male,Delhi,Laborum Vel,Books,26188,3,UPI,4,78564,Amazon,3
+AMZ000599,2023-10-03,Chirag Shan,Female,Pune,Mollitia Sequi,Books,19272,3,Cash on Delivery,2,57816,Amazon,10
+AMZ000600,2023-05-13,Nitya Ganesan,Male,Kolkata,Saepe Voluptates,Beauty,11066,4,UPI,1,44264,Amazon,5
+AMZ000601,2023-08-08,Arnav Yohannan,Female,Mumbai,Ipsum Quisquam,Beauty,44531,5,Debit Card,1,222655,Amazon,8
+AMZ000602,2023-06-22,Sana Chana,Female,Chennai,Error Perferendis,Fashion,13978,2,Cash on Delivery,3,27956,Amazon,6
+AMZ000603,2023-02-03,Inaaya  Dugar,Female,Delhi,Ea Odio,Home & Kitchen,31312,2,Net Banking,4,62624,Amazon,2
+AMZ000604,2023-06-15,Vritika Rattan,Female,Pune,Consequatur Eos,Sports,46236,1,Cash on Delivery,2,46236,Amazon,6
+AMZ000605,2023-04-07,Nitara Konda,Female,Delhi,Reprehenderit Quae,Beauty,24763,2,UPI,5,49526,Amazon,4
+AMZ000606,2023-07-02,Biju Raman,Male,Mumbai,Debitis Saepe,Home & Kitchen,34751,2,Net Banking,3,69502,Amazon,7
+AMZ000607,2023-12-31,Bhamini Divan,Male,Mumbai,Laudantium Repudiandae,Books,2677,5,Credit Card,3,13385,Amazon,12
+AMZ000608,2023-04-11,Aarna Gour,Female,Mumbai,Quis Similique,Electronics,22505,4,Credit Card,4,90020,Amazon,4
+AMZ000609,2023-12-14,Saanvi Dayal,Female,Chennai,Numquam Sit,Home & Kitchen,12667,4,Credit Card,4,50668,Amazon,12
+AMZ000610,2023-06-13,Keya Shenoy,Female,Chennai,Suscipit Modi,Fashion,43052,1,Debit Card,1,43052,Amazon,6
+AMZ000611,2023-05-20,Ishita Sarkar,Female,Chennai,Eos Magnam,Home & Kitchen,5256,1,Credit Card,5,5256,Amazon,5
+AMZ000612,2023-03-30,Miraan Sandal,Male,Mumbai,Impedit Quod,Home & Kitchen,7920,2,Net Banking,5,15840,Amazon,3
+AMZ000613,2023-08-31,Chirag Wason,Male,Delhi,Tempora Eos,Beauty,26677,2,Net Banking,5,53354,Amazon,8
+AMZ000614,2023-07-07,Yasmin Subramaniam,Male,Delhi,Pariatur Sunt,Electronics,6755,4,Net Banking,3,27020,Amazon,7
+AMZ000615,2023-12-16,Rasha Rao,Male,Pune,Est In,Electronics,34839,3,Cash on Delivery,5,104517,Amazon,12
+AMZ000616,2023-09-13,Amani Trivedi,Male,Pune,Eveniet Quas,Books,32598,4,UPI,3,130392,Amazon,9
+AMZ000617,2023-08-07,Saanvi Grover,Male,Delhi,Earum Quo,Fashion,33170,3,Net Banking,2,99510,Amazon,8
+AMZ000618,2023-01-08,Rasha Divan,Female,Bangalore,Quam Placeat,Electronics,48597,1,Debit Card,1,48597,Amazon,1
+AMZ000619,2023-08-15,Nirvi De,Female,Pune,Rerum Voluptates,Beauty,17920,1,UPI,2,17920,Amazon,8
+AMZ000620,2023-12-18,Rati Butala,Male,Delhi,In Quasi,Home & Kitchen,48295,4,UPI,2,193180,Amazon,12
+AMZ000621,2023-10-08,Badal Banik,Female,Pune,Deleniti Numquam,Sports,20854,3,Credit Card,4,62562,Amazon,10
+AMZ000622,2023-05-28,Hunar Gupta,Male,Hyderabad,Odit Nihil,Sports,45792,4,UPI,1,183168,Amazon,5
+AMZ000623,2023-02-04,Divyansh Apte,Male,Pune,Dolorum Blanditiis,Fashion,12650,1,UPI,4,12650,Amazon,2
+AMZ000624,2023-04-26,Saira Khare,Female,Mumbai,Officia Dolore,Fashion,38998,3,UPI,3,116994,Amazon,4
+AMZ000625,2023-01-10,Rati Lal,Female,Delhi,Enim Culpa,Fashion,8943,5,Debit Card,4,44715,Amazon,1
+AMZ000626,2023-01-16,Alisha Swamy,Female,Kolkata,Vero Est,Fashion,15877,5,UPI,1,79385,Amazon,1
+AMZ000627,2023-08-17,Sara Mall,Male,Delhi,Labore Harum,Books,10399,3,Debit Card,5,31197,Amazon,8
+AMZ000628,2023-06-01,Sana Bahri,Female,Delhi,Deleniti Distinctio,Sports,2438,4,Credit Card,2,9752,Amazon,6
+AMZ000629,2023-03-21,Jayant Lata,Female,Kolkata,Magni Quo,Books,10565,3,UPI,5,31695,Amazon,3
+AMZ000630,2023-10-03,Shalv Tella,Female,Hyderabad,Aperiam Suscipit,Electronics,27035,2,UPI,2,54070,Amazon,10
+AMZ000631,2023-02-09,Samarth Sampath,Male,Pune,Autem Dolorem,Beauty,33040,3,Cash on Delivery,3,99120,Amazon,2
+AMZ000632,2023-01-31,Mahika Bobal,Female,Mumbai,Repudiandae Velit,Books,49694,1,Debit Card,5,49694,Amazon,1
+AMZ000633,2023-09-02,Ryan Sachdeva,Female,Pune,Eum Facilis,Electronics,43457,5,Debit Card,3,217285,Amazon,9
+AMZ000634,2023-01-16,Advik Yadav,Male,Mumbai,Corrupti Incidunt,Sports,28659,4,Cash on Delivery,5,114636,Amazon,1
+AMZ000635,2023-09-05,Anaya Chowdhury,Female,Chennai,Aliquam Minima,Electronics,31982,4,UPI,4,127928,Amazon,9
+AMZ000636,2023-05-20,Baiju Mahajan,Male,Chennai,Porro Animi,Books,22836,2,Debit Card,1,45672,Amazon,5
+AMZ000637,2023-10-03,Hunar Korpal,Female,Hyderabad,Rem Dolorum,Electronics,1730,1,Net Banking,4,1730,Amazon,10
+AMZ000638,2023-06-22,Tiya Lad,Female,Delhi,Possimus Ea,Sports,37260,2,Credit Card,1,74520,Amazon,6
+AMZ000639,2023-05-27,Divij Iyengar,Female,Delhi,Perferendis Eveniet,Sports,19617,3,UPI,4,58851,Amazon,5
+AMZ000640,2023-11-08,Indrans Baria,Male,Kolkata,Sunt Alias,Electronics,33535,1,UPI,4,33535,Amazon,11
+AMZ000641,2023-07-05,Pihu Tata,Male,Hyderabad,Commodi Fuga,Beauty,38051,1,Net Banking,2,38051,Amazon,7
+AMZ000642,2023-07-27,Heer Saini,Male,Chennai,Reiciendis Voluptates,Books,25766,4,Credit Card,2,103064,Amazon,7
+AMZ000643,2023-12-04,Damini Konda,Male,Kolkata,Atque Maiores,Beauty,48286,3,Credit Card,4,144858,Amazon,12
+AMZ000644,2023-09-10,Anahi Ravi,Male,Delhi,Eum Veritatis,Books,5149,5,UPI,5,25745,Amazon,9
+AMZ000645,2023-04-27,Dishani Venkatesh,Female,Kolkata,Nesciunt Iusto,Electronics,40328,4,Cash on Delivery,3,161312,Amazon,4
+AMZ000646,2023-04-04,Ahana  Sangha,Male,Chennai,Quisquam Sint,Beauty,45743,5,Credit Card,3,228715,Amazon,4
+AMZ000647,2023-09-16,Taran Subramaniam,Female,Delhi,Vero Placeat,Home & Kitchen,49923,4,Cash on Delivery,1,199692,Amazon,9
+AMZ000648,2023-09-09,Nayantara Sood,Female,Mumbai,Magnam Quaerat,Beauty,23942,1,Cash on Delivery,1,23942,Amazon,9
+AMZ000649,2023-05-02,Myra Batta,Female,Hyderabad,Iste Labore,Books,10874,2,UPI,2,21748,Amazon,5
+AMZ000650,2023-09-23,Priyansh Gupta,Male,Hyderabad,Enim Magnam,Sports,47116,5,Net Banking,4,235580,Amazon,9
+AMZ000651,2023-02-09,Vritika Ganesh,Male,Bangalore,Eligendi Sint,Fashion,13205,2,Cash on Delivery,4,26410,Amazon,2
+AMZ000652,2023-12-29,Divyansh Setty,Male,Hyderabad,Dolore Enim,Fashion,30033,5,Cash on Delivery,1,150165,Amazon,12
+AMZ000653,2023-04-28,Fateh Wadhwa,Male,Hyderabad,Adipisci Tempore,Beauty,2889,1,Credit Card,1,2889,Amazon,4
+AMZ000654,2023-05-30,Aarav Rama,Female,Hyderabad,Doloremque Quidem,Beauty,20013,3,Net Banking,5,60039,Amazon,5
+AMZ000655,2023-05-10,Vardaniya Choudhary,Female,Delhi,Explicabo Dignissimos,Electronics,2924,5,Credit Card,3,14620,Amazon,5
+AMZ000656,2023-03-24,Zain Dada,Male,Mumbai,Dolores Hic,Beauty,40560,2,Net Banking,3,81120,Amazon,3
+AMZ000657,2023-10-24,Bhavin Srinivas,Male,Bangalore,Enim Assumenda,Fashion,15178,1,Debit Card,4,15178,Amazon,10
+AMZ000658,2023-05-20,Yuvraj  Kohli,Male,Hyderabad,Voluptatem Recusandae,Books,13289,1,Credit Card,5,13289,Amazon,5
+AMZ000659,2023-07-10,Vaibhav Ganesh,Female,Kolkata,Soluta Corporis,Books,34662,3,Credit Card,4,103986,Amazon,7
+AMZ000660,2023-06-07,Manikya Borde,Female,Hyderabad,Eos Dolorum,Sports,25223,4,Debit Card,5,100892,Amazon,6
+AMZ000661,2023-09-09,Siya Datta,Male,Hyderabad,Voluptate Cumque,Books,4290,5,Cash on Delivery,2,21450,Amazon,9
+AMZ000662,2023-11-25,Samarth Garde,Female,Hyderabad,Omnis Non,Electronics,2908,5,Credit Card,3,14540,Amazon,11
+AMZ000663,2023-12-11,Ivan Khosla,Male,Hyderabad,Expedita Asperiores,Sports,32849,3,UPI,2,98547,Amazon,12
+AMZ000664,2023-12-03,Zeeshan Kuruvilla,Male,Delhi,Vitae Explicabo,Books,26617,2,Credit Card,1,53234,Amazon,12
+AMZ000665,2023-05-25,Heer Bath,Female,Kolkata,Ut Culpa,Fashion,11919,4,Debit Card,2,47676,Amazon,5
+AMZ000666,2023-07-08,Inaaya  Sahni,Female,Mumbai,Dolore Exercitationem,Fashion,44224,4,Cash on Delivery,4,176896,Amazon,7
+AMZ000667,2023-05-23,Neysa Char,Female,Hyderabad,Error Natus,Beauty,25903,3,Credit Card,1,77709,Amazon,5
+AMZ000668,2023-11-04,Hridaan Agate,Male,Hyderabad,Ab Autem,Fashion,18584,5,UPI,3,92920,Amazon,11
+AMZ000669,2023-05-21,Nirvi Wable,Male,Chennai,Accusantium Odit,Fashion,19867,5,Credit Card,4,99335,Amazon,5
+AMZ000670,2023-05-23,Nirvi Barad,Female,Pune,Voluptate Dolorem,Books,25907,4,Cash on Delivery,3,103628,Amazon,5
+AMZ000671,2023-02-11,Charvi Tak,Female,Delhi,Illo Facere,Sports,29834,5,Cash on Delivery,1,149170,Amazon,2
+AMZ000672,2023-09-17,Zoya Raj,Male,Hyderabad,Suscipit Reprehenderit,Fashion,13198,3,Credit Card,2,39594,Amazon,9
+AMZ000673,2023-12-21,Prisha Kannan,Male,Pune,Quia Sapiente,Electronics,11000,3,Credit Card,2,33000,Amazon,12
+AMZ000674,2023-05-01,Neelofar Chauhan,Male,Mumbai,Reprehenderit Omnis,Fashion,38330,3,Debit Card,4,114990,Amazon,5
+AMZ000675,2023-03-07,Yashvi Choudhury,Male,Pune,Laboriosam Illum,Fashion,13252,5,UPI,3,66260,Amazon,3
+AMZ000676,2023-02-18,Mamooty Sampath,Female,Delhi,Iure Animi,Books,33001,4,Cash on Delivery,2,132004,Amazon,2
+AMZ000677,2023-10-24,Aradhya Lal,Male,Hyderabad,Praesentium A,Fashion,28333,3,Debit Card,5,84999,Amazon,10
+AMZ000678,2023-05-27,Aayush Manne,Male,Hyderabad,Reprehenderit Est,Beauty,36331,1,Credit Card,3,36331,Amazon,5
+AMZ000679,2023-09-15,Vedika Dora,Female,Mumbai,Cupiditate Ducimus,Beauty,19891,1,UPI,2,19891,Amazon,9
+AMZ000680,2023-05-17,Devansh Jani,Female,Chennai,Nam Commodi,Sports,45393,1,Credit Card,5,45393,Amazon,5
+AMZ000681,2023-07-21,Tarini Wable,Male,Hyderabad,Hic Similique,Fashion,18950,4,Credit Card,5,75800,Amazon,7
+AMZ000682,2023-02-14,Yakshit Atwal,Male,Kolkata,Nulla Fugit,Home & Kitchen,35859,2,Net Banking,2,71718,Amazon,2
+AMZ000683,2023-12-08,Amira Dhingra,Male,Bangalore,Optio Cumque,Beauty,29895,4,Debit Card,1,119580,Amazon,12
+AMZ000684,2023-12-05,Ishaan Sane,Female,Bangalore,Omnis Excepturi,Home & Kitchen,33182,2,Cash on Delivery,1,66364,Amazon,12
+AMZ000685,2023-07-01,Bhamini Wadhwa,Female,Kolkata,Illo Sint,Books,28584,2,UPI,1,57168,Amazon,7
+AMZ000686,2023-12-30,Rasha Bandi,Male,Mumbai,Similique Debitis,Books,4133,5,Credit Card,3,20665,Amazon,12
+AMZ000687,2023-06-29,Pranay Rao,Female,Pune,Quam Accusantium,Electronics,46892,5,UPI,5,234460,Amazon,6
+AMZ000688,2023-12-31,Inaaya  Balan,Male,Hyderabad,Et Facilis,Books,756,2,UPI,4,1512,Amazon,12
+AMZ000689,2023-05-03,Misha Bava,Female,Pune,Facilis Reprehenderit,Sports,43927,1,Cash on Delivery,2,43927,Amazon,5
+AMZ000690,2023-06-12,Kimaya Thakkar,Male,Hyderabad,Ullam Minus,Home & Kitchen,12391,5,Debit Card,1,61955,Amazon,6
+AMZ000691,2023-01-03,Misha Kara,Female,Mumbai,Necessitatibus Unde,Fashion,17592,2,Debit Card,4,35184,Amazon,1
+AMZ000692,2023-04-21,Dhanuk Ahluwalia,Female,Bangalore,Perspiciatis Mollitia,Books,6781,2,Credit Card,4,13562,Amazon,4
+AMZ000693,2023-10-12,Ishita Agrawal,Male,Bangalore,Assumenda Incidunt,Beauty,26351,5,Credit Card,2,131755,Amazon,10
+AMZ000694,2023-12-01,Mamooty Wagle,Male,Delhi,Modi Similique,Books,32314,5,Credit Card,4,161570,Amazon,12
+AMZ000695,2023-01-26,Arhaan Jhaveri,Female,Mumbai,Quod Tempore,Beauty,28415,2,UPI,2,56830,Amazon,1
+AMZ000696,2023-01-01,Kaira Chopra,Male,Hyderabad,Ut Id,Books,8435,5,Debit Card,3,42175,Amazon,1
+AMZ000697,2023-08-25,Ahana  Gala,Female,Hyderabad,Repellendus Dignissimos,Home & Kitchen,34720,5,Debit Card,1,173600,Amazon,8
+AMZ000698,2023-10-13,Amira Dhingra,Male,Mumbai,Quisquam Corporis,Fashion,26601,1,Credit Card,4,26601,Amazon,10
+AMZ000699,2023-09-26,Mannat Ramaswamy,Female,Bangalore,Praesentium Dolorum,Fashion,9116,2,Debit Card,4,18232,Amazon,9
+AMZ000700,2023-10-09,Nirvi Din,Male,Kolkata,Dolorum Officia,Home & Kitchen,22477,1,Cash on Delivery,4,22477,Amazon,10
+AMZ000701,2023-11-23,Diya Ahuja,Male,Delhi,Nemo Necessitatibus,Home & Kitchen,45901,1,Debit Card,5,45901,Amazon,11
+AMZ000702,2023-06-19,Dhanush Kuruvilla,Female,Bangalore,Totam Quidem,Fashion,735,4,Credit Card,5,2940,Amazon,6
+AMZ000703,2023-01-05,Mohanlal Andra,Male,Bangalore,Beatae Mollitia,Home & Kitchen,37798,5,Cash on Delivery,1,188990,Amazon,1
+AMZ000704,2023-05-08,Vaibhav Krishna,Male,Chennai,Aliquam Officiis,Books,27427,4,Cash on Delivery,1,109708,Amazon,5
+AMZ000705,2023-11-03,Anaya Bava,Female,Pune,Architecto Corrupti,Books,35222,3,Credit Card,2,105666,Amazon,11
+AMZ000706,2023-06-19,Jayan Buch,Female,Delhi,Alias Commodi,Home & Kitchen,25358,2,Credit Card,5,50716,Amazon,6
+AMZ000707,2023-08-12,Neelofar Khanna,Female,Bangalore,Quidem Modi,Sports,46934,3,Credit Card,5,140802,Amazon,8
+AMZ000708,2023-09-01,Shalv Singhal,Male,Delhi,Eum Eos,Books,39088,4,UPI,2,156352,Amazon,9
+AMZ000709,2023-02-23,Manikya Dash,Male,Pune,Tempora Suscipit,Electronics,9896,2,Cash on Delivery,3,19792,Amazon,2
+AMZ000710,2023-11-27,Kanav Dhawan,Male,Pune,Perferendis Reiciendis,Beauty,3844,1,Debit Card,5,3844,Amazon,11
+AMZ000711,2023-10-02,Dhanuk Trivedi,Female,Pune,Itaque Tempora,Fashion,49439,5,Debit Card,1,247195,Amazon,10
+AMZ000712,2023-02-15,Purab Kakar,Female,Hyderabad,Sed Iure,Fashion,19207,5,Debit Card,2,96035,Amazon,2
+AMZ000713,2023-08-23,Neysa Andra,Female,Delhi,Distinctio Quam,Books,9859,3,UPI,2,29577,Amazon,8
+AMZ000714,2023-04-13,Uthkarsh Sangha,Male,Hyderabad,Minus Id,Fashion,30689,3,Debit Card,5,92067,Amazon,4
+AMZ000715,2023-11-03,Aniruddh Dhillon,Female,Chennai,Molestias Distinctio,Fashion,5013,2,UPI,5,10026,Amazon,11
+AMZ000716,2023-10-15,Ahana  Bhatnagar,Female,Hyderabad,Error Odit,Beauty,22845,5,Debit Card,5,114225,Amazon,10
+AMZ000717,2023-10-31,Hansh Reddy,Male,Hyderabad,Optio Aliquid,Books,28066,1,Net Banking,4,28066,Amazon,10
+AMZ000718,2023-10-06,Samaira Sem,Female,Bangalore,Nemo Iste,Books,18140,3,Debit Card,4,54420,Amazon,10
+AMZ000719,2023-06-06,Kashvi Koshy,Male,Pune,Nostrum Eaque,Fashion,25230,3,Net Banking,3,75690,Amazon,6
+AMZ000720,2023-09-23,Nakul Ramaswamy,Male,Chennai,Culpa Saepe,Home & Kitchen,5449,5,Credit Card,2,27245,Amazon,9
+AMZ000721,2023-10-15,Advik Kapadia,Male,Pune,Quam Praesentium,Sports,12746,5,UPI,3,63730,Amazon,10
+AMZ000722,2023-09-12,Aaryahi D’Alia,Female,Mumbai,Quasi Odio,Electronics,7025,4,Cash on Delivery,4,28100,Amazon,9
+AMZ000723,2023-06-18,Yasmin Sekhon,Male,Bangalore,Reiciendis Dolorum,Books,27516,3,UPI,3,82548,Amazon,6
+AMZ000724,2023-03-09,Zara Dalal,Female,Hyderabad,Dolor Eius,Sports,562,2,Cash on Delivery,3,1124,Amazon,3
+AMZ000725,2023-10-02,Samar Chada,Male,Delhi,Impedit Occaecati,Fashion,18962,2,UPI,3,37924,Amazon,10
+AMZ000726,2023-06-13,Pranay Bhardwaj,Male,Kolkata,Quis Inventore,Beauty,26881,4,UPI,4,107524,Amazon,6
+AMZ000727,2023-07-27,Nirvi Edwin,Female,Mumbai,Quo Sequi,Books,42672,1,Cash on Delivery,3,42672,Amazon,7
+AMZ000728,2023-05-25,Nirvaan Choudhry,Female,Bangalore,Unde Fugiat,Beauty,39045,4,Net Banking,3,156180,Amazon,5
+AMZ000729,2023-12-29,Mannat Sampath,Male,Chennai,Quisquam Est,Home & Kitchen,28675,4,Debit Card,3,114700,Amazon,12
+AMZ000730,2023-09-02,Kimaya Yohannan,Female,Hyderabad,Sequi Veniam,Sports,14580,2,Net Banking,1,29160,Amazon,9
+AMZ000731,2023-11-01,Arhaan Gala,Female,Chennai,Tenetur Sed,Fashion,40637,4,Debit Card,1,162548,Amazon,11
+AMZ000732,2023-02-06,Pari Sagar,Female,Mumbai,Dolorem Laudantium,Sports,46633,3,Debit Card,4,139899,Amazon,2
+AMZ000733,2023-03-29,Jivin Brahmbhatt,Male,Kolkata,Quam Maxime,Electronics,8406,1,Credit Card,2,8406,Amazon,3
+AMZ000734,2023-09-18,Hansh Kanda,Female,Hyderabad,Quaerat Dolorem,Fashion,34661,2,UPI,4,69322,Amazon,9
+AMZ000735,2023-12-08,Taran Vyas,Female,Kolkata,Architecto Voluptates,Home & Kitchen,9344,1,Credit Card,2,9344,Amazon,12
+AMZ000736,2023-02-28,Tushar Bose,Male,Bangalore,Quia Repudiandae,Home & Kitchen,30553,3,Cash on Delivery,1,91659,Amazon,2
+AMZ000737,2023-01-25,Farhan Chacko,Male,Kolkata,Quidem Fuga,Fashion,5003,2,UPI,2,10006,Amazon,1
+AMZ000738,2023-08-11,Trisha Bora,Female,Pune,Voluptates Natus,Electronics,1409,1,UPI,5,1409,Amazon,8
+AMZ000739,2023-10-06,Uthkarsh Vasa,Male,Kolkata,Doloribus Esse,Electronics,44292,1,Cash on Delivery,3,44292,Amazon,10
+AMZ000740,2023-02-16,Amira Vala,Female,Delhi,Dolor Aut,Sports,12760,3,Cash on Delivery,4,38280,Amazon,2
+AMZ000741,2023-12-25,Yuvaan Krish,Male,Delhi,Atque Facere,Electronics,43395,4,Cash on Delivery,5,173580,Amazon,12
+AMZ000742,2023-12-21,Nitya Wali,Male,Kolkata,Ipsam Maiores,Electronics,5980,5,Debit Card,4,29900,Amazon,12
+AMZ000743,2023-11-08,Seher Kalita,Female,Bangalore,Repellat Vitae,Books,44932,2,Cash on Delivery,3,89864,Amazon,11
+AMZ000744,2023-09-13,Zoya Kalla,Female,Pune,Excepturi Quae,Sports,34351,2,Cash on Delivery,2,68702,Amazon,9
+AMZ000745,2023-06-02,Fateh Seshadri,Female,Hyderabad,Quas Labore,Sports,47425,1,Debit Card,2,47425,Amazon,6
+AMZ000746,2023-08-06,Nirvi Guha,Female,Pune,Nisi Culpa,Beauty,22753,5,Credit Card,2,113765,Amazon,8
+AMZ000747,2023-08-01,Shayak Dhillon,Male,Kolkata,Earum Deleniti,Electronics,23771,1,Credit Card,4,23771,Amazon,8
+AMZ000748,2023-08-15,Mehul Bhat,Male,Hyderabad,Doloribus Deserunt,Fashion,334,3,Debit Card,5,1002,Amazon,8
+AMZ000749,2023-08-20,Jayan Banerjee,Male,Kolkata,Labore Recusandae,Books,9689,5,Debit Card,2,48445,Amazon,8
+AMZ000750,2023-06-22,Armaan Hans,Female,Bangalore,Atque Exercitationem,Beauty,49315,3,Net Banking,1,147945,Amazon,6
+AMZ000751,2023-11-14,Amani Sha,Female,Chennai,Labore Cum,Sports,43905,1,Cash on Delivery,4,43905,Amazon,11
+AMZ000752,2023-05-20,Vidur Bhattacharyya,Female,Mumbai,Ducimus Explicabo,Home & Kitchen,5715,5,Debit Card,1,28575,Amazon,5
+AMZ000753,2023-07-28,Divit Singhal,Male,Chennai,Nihil Minima,Beauty,49679,4,UPI,5,198716,Amazon,7
+AMZ000754,2023-09-07,Lavanya Lata,Female,Bangalore,Illum Ea,Electronics,27868,5,Net Banking,4,139340,Amazon,9
+AMZ000755,2023-08-30,Hrishita Kannan,Female,Pune,Odio Necessitatibus,Home & Kitchen,38113,3,Cash on Delivery,4,114339,Amazon,8
+AMZ000756,2023-09-16,Divyansh Bal,Female,Mumbai,Quisquam Minima,Home & Kitchen,8743,4,Cash on Delivery,3,34972,Amazon,9
+AMZ000757,2023-08-19,Onkar Ahuja,Male,Bangalore,Eveniet Explicabo,Home & Kitchen,26883,3,Credit Card,4,80649,Amazon,8
+AMZ000758,2023-05-13,Trisha Chaudhari,Female,Hyderabad,Sunt Odio,Home & Kitchen,16854,5,Debit Card,4,84270,Amazon,5
+AMZ000759,2023-12-17,Darshit Sama,Female,Chennai,Praesentium Excepturi,Home & Kitchen,30724,2,Net Banking,5,61448,Amazon,12
+AMZ000760,2023-02-20,Onkar D’Alia,Male,Kolkata,In Vero,Beauty,12092,3,Cash on Delivery,5,36276,Amazon,2
+AMZ000761,2023-06-02,Aarav Manda,Female,Hyderabad,Laudantium Blanditiis,Fashion,41397,5,Net Banking,4,206985,Amazon,6
+AMZ000762,2023-09-12,Ritvik Mani,Male,Delhi,Deserunt Quasi,Electronics,17874,2,Debit Card,5,35748,Amazon,9
+AMZ000763,2023-06-30,Rati Bose,Female,Mumbai,Optio Sunt,Beauty,25406,2,Debit Card,5,50812,Amazon,6
+AMZ000764,2023-09-06,Sara Walla,Female,Bangalore,Repellendus Deleniti,Books,37853,4,UPI,3,151412,Amazon,9
+AMZ000765,2023-11-06,Bhavin Shah,Female,Kolkata,Est Mollitia,Electronics,11300,3,UPI,2,33900,Amazon,11
+AMZ000766,2023-01-13,Bhamini Shah,Female,Chennai,Est Exercitationem,Electronics,27291,3,Cash on Delivery,4,81873,Amazon,1
+AMZ000767,2023-01-04,Ojas Kothari,Male,Delhi,Aperiam Magni,Sports,700,3,Net Banking,2,2100,Amazon,1
+AMZ000768,2023-10-09,Hiran Sridhar,Male,Chennai,Libero Necessitatibus,Fashion,42027,5,Cash on Delivery,2,210135,Amazon,10
+AMZ000769,2023-02-16,Ahana  Varma,Female,Mumbai,Est Pariatur,Books,45822,5,Credit Card,1,229110,Amazon,2
+AMZ000770,2023-06-25,Madhup Hayre,Female,Delhi,Reprehenderit Corporis,Fashion,22564,3,Debit Card,4,67692,Amazon,6
+AMZ000771,2023-05-05,Divyansh Halder,Female,Mumbai,Quam Maiores,Books,3709,2,Credit Card,5,7418,Amazon,5
+AMZ000772,2023-04-07,Ela Kala,Male,Delhi,In Temporibus,Books,32797,3,Credit Card,2,98391,Amazon,4
+AMZ000773,2023-06-19,Miraan Wable,Male,Chennai,Sint Voluptas,Fashion,13494,4,Debit Card,3,53976,Amazon,6
+AMZ000774,2023-12-07,Pihu Barad,Male,Bangalore,Doloribus Eum,Electronics,38297,2,Debit Card,4,76594,Amazon,12
+AMZ000775,2023-07-01,Hazel Rajagopalan,Female,Kolkata,Est Consectetur,Electronics,31844,1,Net Banking,4,31844,Amazon,7
+AMZ000776,2023-08-12,Kiaan Sunder,Female,Chennai,Saepe Facilis,Sports,16637,3,Net Banking,2,49911,Amazon,8
+AMZ000777,2023-09-20,Jivin Shere,Female,Kolkata,Similique Illum,Home & Kitchen,6188,3,UPI,2,18564,Amazon,9
+AMZ000778,2023-06-23,Zaina Zacharia,Female,Pune,Dolorem Dicta,Fashion,32411,2,Net Banking,3,64822,Amazon,6
+AMZ000779,2023-01-20,Amani Shere,Female,Chennai,Fuga Delectus,Beauty,13047,5,Cash on Delivery,2,65235,Amazon,1
+AMZ000780,2023-11-04,Dhruv Banerjee,Female,Pune,Aliquam Minus,Fashion,20937,4,UPI,4,83748,Amazon,11
+AMZ000781,2023-12-29,Divyansh Hans,Male,Kolkata,Occaecati Repudiandae,Fashion,49675,5,UPI,3,248375,Amazon,12
+AMZ000782,2023-02-02,Damini Sankar,Male,Chennai,Neque Dolor,Books,49275,4,UPI,2,197100,Amazon,2
+AMZ000783,2023-02-03,Tiya Desai,Male,Chennai,Tempore Eaque,Electronics,4139,1,UPI,1,4139,Amazon,2
+AMZ000784,2023-04-29,Trisha Bhat,Female,Chennai,Quia Maiores,Home & Kitchen,3554,4,Net Banking,3,14216,Amazon,4
+AMZ000785,2023-11-11,Miraya Dasgupta,Female,Kolkata,Dignissimos Totam,Books,34867,4,UPI,2,139468,Amazon,11
+AMZ000786,2023-07-04,Trisha Krish,Male,Mumbai,Id Porro,Beauty,41256,1,Net Banking,5,41256,Amazon,7
+AMZ000787,2023-02-20,Shaan Thakkar,Male,Mumbai,Sit Incidunt,Books,18426,3,Net Banking,4,55278,Amazon,2
+AMZ000788,2023-05-07,Madhup Din,Male,Mumbai,Vitae Provident,Sports,22923,2,Debit Card,3,45846,Amazon,5
+AMZ000789,2023-01-16,Rasha Grewal,Female,Hyderabad,Voluptatum Blanditiis,Electronics,40025,3,Net Banking,1,120075,Amazon,1
+AMZ000790,2023-01-10,Nishith Bakshi,Female,Mumbai,Odit Cumque,Fashion,16368,5,Net Banking,2,81840,Amazon,1
+AMZ000791,2023-01-12,Piya Roy,Female,Hyderabad,Esse Architecto,Sports,43780,4,UPI,4,175120,Amazon,1
+AMZ000792,2023-07-30,Miraan Baral,Female,Mumbai,Exercitationem Aperiam,Beauty,3791,5,UPI,5,18955,Amazon,7
+AMZ000793,2023-01-26,Taimur Badal,Female,Delhi,Vel Accusantium,Books,21924,4,Net Banking,4,87696,Amazon,1
+AMZ000794,2023-12-11,Damini Iyengar,Male,Chennai,Nisi Error,Electronics,3421,4,Cash on Delivery,4,13684,Amazon,12
+AMZ000795,2023-12-19,Shray Sibal,Female,Pune,Odio Quibusdam,Home & Kitchen,33790,5,UPI,4,168950,Amazon,12
+AMZ000796,2023-11-23,Kimaya Barad,Female,Bangalore,Illum Officia,Books,1088,5,Debit Card,4,5440,Amazon,11
+AMZ000797,2023-10-04,Keya Shanker,Female,Kolkata,Eveniet Iste,Home & Kitchen,44847,5,Net Banking,1,224235,Amazon,10
+AMZ000798,2023-02-12,Fateh Reddy,Female,Mumbai,Error Beatae,Beauty,24030,3,Credit Card,5,72090,Amazon,2
+AMZ000799,2023-12-30,Tara Sethi,Male,Bangalore,Natus Tenetur,Electronics,975,5,Net Banking,5,4875,Amazon,12
+AMZ000800,2023-11-02,Jhanvi Solanki,Male,Hyderabad,Dignissimos Ex,Beauty,23890,4,Debit Card,1,95560,Amazon,11
+AMZ000801,2023-03-23,Parinaaz Chadha,Female,Bangalore,Ex Odio,Beauty,5731,1,Debit Card,5,5731,Amazon,3
+AMZ000802,2023-06-15,Navya Kar,Female,Hyderabad,Vitae Ut,Books,19815,1,Net Banking,3,19815,Amazon,6
+AMZ000803,2023-09-27,Dhanuk Swamy,Female,Bangalore,Tempore Dicta,Home & Kitchen,29294,5,Net Banking,1,146470,Amazon,9
+AMZ000804,2023-06-26,Urvi Saha,Male,Hyderabad,Quidem Ipsam,Sports,46504,5,Net Banking,1,232520,Amazon,6
+AMZ000805,2023-01-30,Mishti Kamdar,Female,Bangalore,Repellat Ipsum,Home & Kitchen,6047,5,Credit Card,4,30235,Amazon,1
+AMZ000806,2023-01-06,Renee Balan,Male,Mumbai,Exercitationem Provident,Home & Kitchen,21270,3,Cash on Delivery,5,63810,Amazon,1
+AMZ000807,2023-12-16,Jiya Chatterjee,Female,Delhi,Porro Aliquid,Books,48046,1,UPI,4,48046,Amazon,12
+AMZ000808,2023-05-17,Jayan Gour,Female,Bangalore,Corrupti Ab,Home & Kitchen,5840,1,UPI,4,5840,Amazon,5
+AMZ000809,2023-07-30,Biju Venkataraman,Male,Pune,Nostrum Laboriosam,Books,16129,3,Debit Card,2,48387,Amazon,7
+AMZ000810,2023-12-12,Zeeshan Rama,Female,Hyderabad,Vitae Molestias,Electronics,44342,2,Credit Card,1,88684,Amazon,12
+AMZ000811,2023-08-20,Zara Dhar,Male,Hyderabad,Pariatur Reprehenderit,Beauty,36250,4,Debit Card,1,145000,Amazon,8
+AMZ000812,2023-09-06,Eva Ranganathan,Male,Pune,Nemo Corporis,Home & Kitchen,21433,3,Credit Card,3,64299,Amazon,9
+AMZ000813,2023-02-01,Indrajit Balakrishnan,Female,Mumbai,Non Aliquid,Electronics,46051,5,Debit Card,5,230255,Amazon,2
+AMZ000814,2023-06-06,Rhea Manne,Female,Pune,At Occaecati,Electronics,12023,5,UPI,4,60115,Amazon,6
+AMZ000815,2023-04-27,Inaaya  Gola,Male,Mumbai,Amet Nihil,Sports,46939,3,UPI,4,140817,Amazon,4
+AMZ000816,2023-08-01,Lavanya Cherian,Male,Bangalore,Animi Enim,Sports,5220,3,Debit Card,3,15660,Amazon,8
+AMZ000817,2023-02-13,Vanya Sani,Female,Bangalore,Deserunt Libero,Fashion,9789,3,Net Banking,4,29367,Amazon,2
+AMZ000818,2023-09-26,Jayesh Sood,Male,Pune,Delectus Repellat,Beauty,9338,1,UPI,5,9338,Amazon,9
+AMZ000819,2023-10-23,Mamooty Grover,Female,Bangalore,Consectetur Eius,Sports,1690,5,Net Banking,4,8450,Amazon,10
+AMZ000820,2023-12-13,Misha Shan,Male,Bangalore,Quas Possimus,Sports,5328,4,Net Banking,2,21312,Amazon,12
+AMZ000821,2023-12-27,Kimaya Madan,Male,Kolkata,Sed Reprehenderit,Sports,15958,2,UPI,1,31916,Amazon,12
+AMZ000822,2023-09-14,Vardaniya Bhandari,Male,Delhi,Aperiam Repellendus,Beauty,9631,5,UPI,3,48155,Amazon,9
+AMZ000823,2023-11-28,Jivin Saran,Female,Pune,Vitae Asperiores,Home & Kitchen,32669,1,Net Banking,4,32669,Amazon,11
+AMZ000824,2023-07-14,Inaaya  Baral,Male,Kolkata,Quo Quam,Fashion,6636,3,Credit Card,5,19908,Amazon,7
+AMZ000825,2023-12-31,Renee Mall,Female,Delhi,Repellendus A,Sports,34804,4,Debit Card,1,139216,Amazon,12
+AMZ000826,2023-11-23,Zaina Bassi,Male,Chennai,Nulla Similique,Books,42212,5,UPI,4,211060,Amazon,11
+AMZ000827,2023-07-12,Indranil Deshmukh,Female,Kolkata,Expedita Animi,Books,13688,1,Net Banking,4,13688,Amazon,7
+AMZ000828,2023-12-28,Romil Madan,Male,Mumbai,Possimus Et,Fashion,40851,2,Debit Card,3,81702,Amazon,12
+AMZ000829,2023-10-03,Jayan Hayer,Female,Kolkata,Cupiditate At,Electronics,33905,1,Debit Card,4,33905,Amazon,10
+AMZ000830,2023-07-31,Ranbir Magar,Male,Pune,Repudiandae Quaerat,Electronics,25151,5,UPI,4,125755,Amazon,7
+AMZ000831,2023-07-14,Ehsaan Dixit,Female,Mumbai,Nostrum Modi,Sports,335,1,Credit Card,2,335,Amazon,7
+AMZ000832,2023-02-14,Ivan Saxena,Male,Delhi,Omnis Adipisci,Beauty,18355,4,Debit Card,4,73420,Amazon,2
+AMZ000833,2023-01-11,Neelofar Shroff,Female,Bangalore,Molestias Recusandae,Beauty,32981,5,Cash on Delivery,5,164905,Amazon,1
+AMZ000834,2023-04-24,Mehul Sachdeva,Male,Hyderabad,Sed Esse,Home & Kitchen,22544,4,Credit Card,5,90176,Amazon,4
+AMZ000835,2023-11-04,Anvi Anand,Male,Pune,Vero Quis,Fashion,20694,5,Debit Card,1,103470,Amazon,11
+AMZ000836,2023-03-22,Kanav Shetty,Male,Kolkata,Officiis Numquam,Books,37461,2,Cash on Delivery,4,74922,Amazon,3
+AMZ000837,2023-02-17,Seher Dhaliwal,Female,Hyderabad,Vel Amet,Sports,5952,2,Cash on Delivery,2,11904,Amazon,2
+AMZ000838,2023-11-16,Anahi Som,Male,Delhi,Suscipit Necessitatibus,Electronics,30372,1,Debit Card,1,30372,Amazon,11
+AMZ000839,2023-06-25,Vritika Kota,Female,Mumbai,Corporis Repellat,Fashion,6393,2,Credit Card,4,12786,Amazon,6
+AMZ000840,2023-08-07,Charvi Samra,Female,Hyderabad,Quos At,Fashion,7447,1,Credit Card,3,7447,Amazon,8
+AMZ000841,2023-01-11,Sahil Baral,Female,Hyderabad,Enim Quaerat,Fashion,46547,2,Net Banking,2,93094,Amazon,1
+AMZ000842,2023-11-22,Saksham Sule,Female,Hyderabad,Consectetur Quo,Books,27544,3,Cash on Delivery,1,82632,Amazon,11
+AMZ000843,2023-11-30,Nakul Goda,Female,Bangalore,Inventore Consequuntur,Home & Kitchen,3650,2,Credit Card,4,7300,Amazon,11
+AMZ000844,2023-05-17,Dhanuk Halder,Female,Chennai,Quaerat Totam,Beauty,44080,2,Debit Card,5,88160,Amazon,5
+AMZ000845,2023-10-20,Prerak Krishnamurthy,Female,Bangalore,Minima Doloribus,Books,24642,4,Credit Card,3,98568,Amazon,10
+AMZ000846,2023-01-13,Nitya Bora,Female,Bangalore,Aliquam Magnam,Electronics,21342,4,Cash on Delivery,3,85368,Amazon,1
+AMZ000847,2023-03-01,Sahil Ben,Female,Kolkata,Id Accusamus,Fashion,9779,4,UPI,4,39116,Amazon,3
+AMZ000848,2023-01-21,Sana Shanker,Male,Mumbai,Distinctio Adipisci,Sports,39376,4,Cash on Delivery,3,157504,Amazon,1
+AMZ000849,2023-02-10,Priyansh Toor,Female,Hyderabad,Numquam Tempore,Beauty,27636,1,Net Banking,5,27636,Amazon,2
+AMZ000850,2023-01-28,Vardaniya Majumdar,Male,Pune,Voluptates Minus,Electronics,21974,3,UPI,1,65922,Amazon,1
+AMZ000851,2023-08-09,Keya Dayal,Male,Chennai,Perspiciatis Debitis,Sports,33268,2,Cash on Delivery,1,66536,Amazon,8
+AMZ000852,2023-08-13,Dharmajan Thakkar,Male,Mumbai,Excepturi Rem,Books,8507,2,Credit Card,5,17014,Amazon,8
+AMZ000853,2023-10-23,Miraan Magar,Female,Delhi,Cupiditate Incidunt,Home & Kitchen,18791,2,Debit Card,4,37582,Amazon,10
+AMZ000854,2023-02-24,Kiaan Taneja,Female,Bangalore,Adipisci Architecto,Books,15731,5,Cash on Delivery,3,78655,Amazon,2
+AMZ000855,2023-11-23,Tarini Dash,Female,Pune,Quasi Repellendus,Sports,16079,5,Cash on Delivery,5,80395,Amazon,11
+AMZ000856,2023-03-05,Renee Karpe,Male,Delhi,Dolorum Quo,Beauty,8645,5,Cash on Delivery,5,43225,Amazon,3
+AMZ000857,2023-05-05,Aaina Sarin,Male,Mumbai,Magnam Laudantium,Fashion,13034,4,Cash on Delivery,1,52136,Amazon,5
+AMZ000858,2023-01-16,Nirvaan Chhabra,Male,Delhi,Distinctio Earum,Electronics,34955,1,Debit Card,1,34955,Amazon,1
+AMZ000859,2023-07-14,Tarini Date,Female,Bangalore,Unde Harum,Electronics,45894,1,UPI,1,45894,Amazon,7
+AMZ000860,2023-11-03,Nehmat De,Female,Bangalore,Ipsum Modi,Beauty,16504,2,Debit Card,5,33008,Amazon,11
+AMZ000861,2023-09-11,Diya Lanka,Male,Kolkata,Pariatur Sapiente,Home & Kitchen,49841,4,UPI,1,199364,Amazon,9
+AMZ000862,2023-07-16,Kashvi Contractor,Female,Mumbai,Minima Voluptatum,Books,19241,2,Net Banking,3,38482,Amazon,7
+AMZ000863,2023-11-02,Kiara Khalsa,Male,Delhi,Earum Porro,Electronics,46094,3,Cash on Delivery,5,138282,Amazon,11
+AMZ000864,2023-09-28,Urvi Bahri,Male,Kolkata,Minima Aspernatur,Home & Kitchen,26769,5,UPI,3,133845,Amazon,9
+AMZ000865,2023-03-11,Gokul Borra,Male,Mumbai,Reprehenderit Ad,Fashion,35548,2,Credit Card,4,71096,Amazon,3
+AMZ000866,2023-08-08,Nirvaan Savant,Male,Delhi,Quis Doloremque,Electronics,13809,5,Debit Card,3,69045,Amazon,8
+AMZ000867,2023-07-11,Raghav Dhillon,Female,Chennai,Repellendus Numquam,Books,40570,4,Debit Card,2,162280,Amazon,7
+AMZ000868,2023-01-08,Indrajit Varma,Female,Hyderabad,Voluptate Quas,Books,45999,5,Credit Card,5,229995,Amazon,1
+AMZ000869,2023-11-24,Miraya Lata,Female,Mumbai,Reprehenderit Maiores,Home & Kitchen,10785,4,UPI,2,43140,Amazon,11
+AMZ000870,2023-03-29,Romil Bhat,Female,Bangalore,Illum Provident,Home & Kitchen,39716,5,Net Banking,1,198580,Amazon,3
+AMZ000871,2023-10-19,Nayantara Kant,Female,Pune,Sunt Nam,Beauty,23830,3,Cash on Delivery,3,71490,Amazon,10
+AMZ000872,2023-08-08,Jayesh Krishna,Female,Kolkata,Cum Voluptates,Electronics,29477,3,Net Banking,2,88431,Amazon,8
+AMZ000873,2023-10-31,Farhan Ghosh,Male,Bangalore,Harum Tempora,Fashion,5279,2,Credit Card,2,10558,Amazon,10
+AMZ000874,2023-09-17,Samarth Chakraborty,Female,Hyderabad,Harum Quibusdam,Electronics,48899,2,UPI,5,97798,Amazon,9
+AMZ000875,2023-08-01,Bhamini Zacharia,Female,Delhi,Ducimus Eum,Books,21318,3,UPI,4,63954,Amazon,8
+AMZ000876,2023-08-29,Zoya Kade,Female,Mumbai,Dicta Labore,Electronics,16245,2,Net Banking,1,32490,Amazon,8
+AMZ000877,2023-09-20,Saksham Taneja,Female,Bangalore,Ducimus Minus,Home & Kitchen,8091,2,UPI,3,16182,Amazon,9
+AMZ000878,2023-01-06,Adah Loke,Female,Mumbai,Ducimus Dolorem,Beauty,3964,2,Net Banking,1,7928,Amazon,1
+AMZ000879,2023-09-25,Kanav Kant,Male,Delhi,Quasi Magnam,Fashion,30846,4,Debit Card,1,123384,Amazon,9
+AMZ000880,2023-06-22,Nayantara Deep,Male,Mumbai,Quibusdam Veritatis,Books,10615,4,Cash on Delivery,3,42460,Amazon,6
+AMZ000881,2023-09-16,Divij Suresh,Female,Bangalore,Adipisci Sed,Electronics,6873,4,Credit Card,1,27492,Amazon,9
+AMZ000882,2023-11-11,Nishith Vyas,Female,Delhi,Explicabo Numquam,Sports,43289,2,UPI,3,86578,Amazon,11
+AMZ000883,2023-05-13,Anay Chander,Male,Bangalore,Hic Cum,Electronics,8212,5,Cash on Delivery,1,41060,Amazon,5
+AMZ000884,2023-01-06,Farhan Kar,Female,Chennai,Rerum Perspiciatis,Sports,7626,5,Cash on Delivery,2,38130,Amazon,1
+AMZ000885,2023-08-10,Rhea Ravel,Female,Hyderabad,Voluptas Tempore,Books,5471,2,Cash on Delivery,3,10942,Amazon,8
+AMZ000886,2023-03-18,Shray Biswas,Male,Chennai,Tempore Exercitationem,Fashion,8761,1,Net Banking,1,8761,Amazon,3
+AMZ000887,2023-11-25,Akarsh Gole,Male,Chennai,Vero Asperiores,Beauty,7830,2,Debit Card,4,15660,Amazon,11
+AMZ000888,2023-05-02,Tushar Mander,Male,Bangalore,Accusamus Consectetur,Sports,47041,3,Debit Card,3,141123,Amazon,5
+AMZ000889,2023-10-06,Navya Mannan,Male,Bangalore,Illo Consequatur,Home & Kitchen,31742,5,Debit Card,5,158710,Amazon,10
+AMZ000890,2023-05-29,Vivaan Kar,Female,Bangalore,Itaque Est,Books,47571,5,Debit Card,4,237855,Amazon,5
+AMZ000891,2023-06-29,Kabir Kakar,Male,Hyderabad,Distinctio Veritatis,Books,43468,2,Net Banking,2,86936,Amazon,6
+AMZ000892,2023-01-27,Divij Kibe,Female,Delhi,Ipsa Optio,Beauty,3389,5,UPI,2,16945,Amazon,1
+AMZ000893,2023-07-06,Shamik Chaudhary,Female,Pune,Necessitatibus Facere,Home & Kitchen,23254,5,UPI,2,116270,Amazon,7
+AMZ000894,2023-03-01,Nishith Vala,Male,Kolkata,Provident Possimus,Sports,5114,4,Cash on Delivery,2,20456,Amazon,3
+AMZ000895,2023-06-09,Kiara Rege,Female,Chennai,Voluptatum Reprehenderit,Home & Kitchen,31206,5,Cash on Delivery,2,156030,Amazon,6
+AMZ000896,2023-04-23,Dharmajan Shah,Female,Kolkata,Nisi Culpa,Home & Kitchen,36563,1,Net Banking,3,36563,Amazon,4
+AMZ000897,2023-01-01,Miraan Gulati,Female,Delhi,Cum Mollitia,Beauty,23141,1,Credit Card,2,23141,Amazon,1
+AMZ000898,2023-10-29,Ahana  Hans,Male,Hyderabad,Maiores Quibusdam,Home & Kitchen,654,5,UPI,4,3270,Amazon,10
+AMZ000899,2023-09-12,Ritvik Bala,Female,Mumbai,Itaque Quas,Books,25872,3,Cash on Delivery,5,77616,Amazon,9
+AMZ000900,2023-09-22,Renee Baral,Male,Delhi,Nostrum Placeat,Books,38683,5,Cash on Delivery,3,193415,Amazon,9
+AMZ000901,2023-06-27,Zaina Krishna,Male,Chennai,Nostrum Facilis,Electronics,48544,1,UPI,4,48544,Amazon,6
+AMZ000902,2023-10-13,Manjari Bhakta,Female,Kolkata,Hic Ipsam,Electronics,13620,5,Cash on Delivery,1,68100,Amazon,10
+AMZ000903,2023-01-29,Anahi Agrawal,Female,Mumbai,Inventore Aperiam,Sports,29988,4,Cash on Delivery,1,119952,Amazon,1
+AMZ000904,2023-05-29,Oorja Mane,Female,Pune,Reiciendis Maxime,Home & Kitchen,7052,3,UPI,5,21156,Amazon,5
+AMZ000905,2023-04-29,Eva Kala,Male,Bangalore,Ipsam Dolorum,Home & Kitchen,2950,1,Cash on Delivery,5,2950,Amazon,4
+AMZ000906,2023-12-27,Bhamini Baria,Male,Bangalore,Animi Voluptatibus,Fashion,19128,3,Cash on Delivery,5,57384,Amazon,12
+AMZ000907,2023-01-10,Anay Virk,Male,Mumbai,In Iusto,Home & Kitchen,1330,2,UPI,5,2660,Amazon,1
+AMZ000908,2023-03-28,Zaina Balan,Female,Delhi,Adipisci Odit,Books,48988,4,Cash on Delivery,5,195952,Amazon,3
+AMZ000909,2023-12-27,Hiran Chandran,Female,Hyderabad,Delectus Facere,Electronics,40587,3,UPI,4,121761,Amazon,12
+AMZ000910,2023-12-08,Jiya Batta,Male,Mumbai,Sequi Quo,Beauty,41300,4,Debit Card,3,165200,Amazon,12
+AMZ000911,2023-04-04,Anika Gola,Male,Hyderabad,Deserunt Omnis,Electronics,37485,2,Credit Card,2,74970,Amazon,4
+AMZ000912,2023-01-18,Nishith Deshmukh,Male,Chennai,Expedita Voluptas,Beauty,11491,3,Debit Card,2,34473,Amazon,1
+AMZ000913,2023-02-15,Fateh Dasgupta,Female,Bangalore,Quam Officiis,Books,44238,2,Net Banking,2,88476,Amazon,2
+AMZ000914,2023-02-24,Aradhya Kota,Male,Pune,Illo Voluptatibus,Fashion,48507,5,UPI,2,242535,Amazon,2
+AMZ000915,2023-04-28,Samarth Kapur,Male,Chennai,Culpa Explicabo,Fashion,7691,3,Debit Card,5,23073,Amazon,4
+AMZ000916,2023-08-08,Reyansh Badami,Male,Chennai,Fuga Expedita,Electronics,25075,1,Cash on Delivery,3,25075,Amazon,8
+AMZ000917,2023-03-26,Yuvaan Borra,Male,Delhi,Expedita Perspiciatis,Beauty,5308,2,UPI,2,10616,Amazon,3
+AMZ000918,2023-03-23,Abram Dara,Female,Hyderabad,Laudantium Dignissimos,Home & Kitchen,794,4,Cash on Delivery,5,3176,Amazon,3
+AMZ000919,2023-03-01,Ahana  Srinivas,Male,Bangalore,Sed Temporibus,Sports,6787,3,Cash on Delivery,3,20361,Amazon,3
+AMZ000920,2023-03-24,Jayant Basak,Female,Hyderabad,Veritatis Nobis,Beauty,39508,4,UPI,2,158032,Amazon,3
+AMZ000921,2023-02-07,Ivana Chaudhry,Female,Delhi,Harum Quos,Sports,45653,2,Net Banking,1,91306,Amazon,2
+AMZ000922,2023-08-26,Suhana Singhal,Male,Hyderabad,Explicabo Porro,Home & Kitchen,47573,2,Cash on Delivery,3,95146,Amazon,8
+AMZ000923,2023-05-24,Adira Balan,Male,Chennai,Impedit Aperiam,Beauty,38805,5,UPI,4,194025,Amazon,5
+AMZ000924,2023-08-02,Nirvaan Gole,Female,Bangalore,Numquam Excepturi,Beauty,14298,5,Cash on Delivery,1,71490,Amazon,8
+AMZ000925,2023-12-20,Ira Shanker,Male,Pune,Reiciendis Totam,Beauty,12870,3,UPI,1,38610,Amazon,12
+AMZ000926,2023-04-01,Jayant Khatri,Male,Hyderabad,Ipsa Voluptatum,Sports,10682,5,UPI,4,53410,Amazon,4
+AMZ000927,2023-09-13,Ela Bera,Female,Mumbai,Dolor Ipsa,Home & Kitchen,34406,4,Credit Card,2,137624,Amazon,9
+AMZ000928,2023-09-23,Diya Hegde,Male,Pune,Asperiores Quaerat,Electronics,13421,3,Net Banking,4,40263,Amazon,9
+AMZ000929,2023-05-16,Saira Bassi,Female,Hyderabad,Id Modi,Sports,1514,3,Debit Card,3,4542,Amazon,5
+AMZ000930,2023-04-03,Dhanuk Saraf,Male,Kolkata,Tempore Voluptates,Fashion,41209,2,Credit Card,2,82418,Amazon,4
+AMZ000931,2023-07-30,Aaina Chaudry,Male,Kolkata,Numquam At,Electronics,20826,3,Net Banking,2,62478,Amazon,7
+AMZ000932,2023-04-25,Onkar Buch,Male,Pune,Ad Nihil,Electronics,17841,4,Debit Card,2,71364,Amazon,4
+AMZ000933,2023-02-16,Rania Bava,Female,Pune,Nulla Inventore,Fashion,13075,4,UPI,5,52300,Amazon,2
+AMZ000934,2023-01-23,Divij Saraf,Female,Delhi,Distinctio Nulla,Sports,2255,5,Credit Card,3,11275,Amazon,1
+AMZ000935,2023-03-17,Vanya Dara,Male,Bangalore,Ipsam Reprehenderit,Books,7355,4,Debit Card,1,29420,Amazon,3
+AMZ000936,2023-10-25,Pranay Gopal,Male,Delhi,Placeat Saepe,Sports,35979,4,Net Banking,4,143916,Amazon,10
+AMZ000937,2023-07-26,Himmat Lalla,Male,Bangalore,Necessitatibus Neque,Electronics,37177,3,Credit Card,2,111531,Amazon,7
+AMZ000938,2023-01-13,Dharmajan Bandi,Male,Hyderabad,Autem Eius,Fashion,17257,4,Debit Card,4,69028,Amazon,1
+AMZ000939,2023-07-17,Rasha Mall,Female,Kolkata,At Aliquam,Electronics,1606,2,UPI,3,3212,Amazon,7
+AMZ000940,2023-07-03,Vivaan Joshi,Female,Hyderabad,Necessitatibus Repudiandae,Home & Kitchen,21319,5,Credit Card,5,106595,Amazon,7
+AMZ000941,2023-05-31,Adah Bansal,Female,Delhi,Ducimus Dolores,Books,37968,3,Debit Card,1,113904,Amazon,5
+AMZ000942,2023-06-24,Darshit Goda,Female,Chennai,Vitae Laboriosam,Electronics,9312,4,Cash on Delivery,3,37248,Amazon,6
+AMZ000943,2023-05-04,Zeeshan Aggarwal,Male,Chennai,Ea Ad,Beauty,16114,4,Cash on Delivery,2,64456,Amazon,5
+AMZ000944,2023-02-27,Saira Bal,Female,Kolkata,Labore Quibusdam,Home & Kitchen,962,4,Net Banking,2,3848,Amazon,2
+AMZ000945,2023-09-03,Badal Mahal,Female,Bangalore,Fuga Culpa,Beauty,6551,5,UPI,3,32755,Amazon,9
+AMZ000946,2023-07-22,Mannat Gera,Female,Pune,Quibusdam Illo,Beauty,22373,4,Cash on Delivery,4,89492,Amazon,7
+AMZ000947,2023-07-09,Nayantara Deo,Female,Chennai,Aspernatur Eligendi,Fashion,30583,1,UPI,1,30583,Amazon,7
+AMZ000948,2023-08-05,Hazel Mahal,Male,Hyderabad,Natus Veritatis,Sports,45334,5,Debit Card,1,226670,Amazon,8
+AMZ000949,2023-08-01,Hansh Chakrabarti,Female,Mumbai,Inventore Ex,Fashion,41978,5,Debit Card,5,209890,Amazon,8
+AMZ000950,2023-09-14,Heer Karan,Female,Kolkata,Deleniti Aperiam,Fashion,18549,5,Credit Card,5,92745,Amazon,9
+AMZ000951,2023-12-01,Faiyaz Taneja,Female,Kolkata,Quidem Odit,Electronics,40666,4,Net Banking,3,162664,Amazon,12
+AMZ000952,2023-08-28,Mohanlal Sharma,Female,Chennai,Nesciunt Ab,Electronics,1685,5,Cash on Delivery,4,8425,Amazon,8
+AMZ000953,2023-11-06,Zara Sandhu,Male,Pune,Dolor Exercitationem,Beauty,16408,4,UPI,1,65632,Amazon,11
+AMZ000954,2023-04-23,Tiya Bains,Female,Mumbai,Libero Eveniet,Electronics,17853,4,UPI,3,71412,Amazon,4
+AMZ000955,2023-11-15,Divyansh Karpe,Male,Pune,Tempore Minus,Books,6800,3,Net Banking,4,20400,Amazon,11
+AMZ000956,2023-06-05,Mehul Sundaram,Female,Pune,Quis Amet,Books,25911,3,Debit Card,3,77733,Amazon,6
+AMZ000957,2023-08-17,Aaina Singh,Female,Delhi,Impedit Consequatur,Home & Kitchen,3826,1,Debit Card,1,3826,Amazon,8
+AMZ000958,2023-01-26,Badal Master,Female,Hyderabad,Accusantium Dicta,Books,24698,1,Debit Card,2,24698,Amazon,1
+AMZ000959,2023-03-24,Nehmat Barad,Female,Hyderabad,Dolor Vel,Fashion,46884,2,UPI,4,93768,Amazon,3
+AMZ000960,2023-01-17,Shalv Chandra,Male,Mumbai,Minus Consectetur,Home & Kitchen,35481,4,Debit Card,2,141924,Amazon,1
+AMZ000961,2023-09-11,Indrans Andra,Female,Delhi,Itaque Blanditiis,Fashion,17747,5,Cash on Delivery,2,88735,Amazon,9
+AMZ000962,2023-09-29,Taimur Kannan,Female,Chennai,Suscipit Enim,Books,3536,3,Credit Card,5,10608,Amazon,9
+AMZ000963,2023-01-15,Lakshay Viswanathan,Male,Delhi,Asperiores Adipisci,Fashion,11059,1,Net Banking,4,11059,Amazon,1
+AMZ000964,2023-08-04,Vardaniya Acharya,Male,Chennai,Officia Dolor,Home & Kitchen,2483,1,Credit Card,2,2483,Amazon,8
+AMZ000965,2023-08-23,Raghav Bhatt,Female,Mumbai,Illo Nisi,Home & Kitchen,17879,5,Net Banking,1,89395,Amazon,8
+AMZ000966,2023-10-24,Parinaaz Kota,Male,Kolkata,Laudantium Ducimus,Home & Kitchen,18604,5,Credit Card,3,93020,Amazon,10
+AMZ000967,2023-08-18,Kartik Bassi,Male,Mumbai,Distinctio Voluptates,Fashion,22940,3,Debit Card,3,68820,Amazon,8
+AMZ000968,2023-09-21,Ranbir Kara,Female,Mumbai,Recusandae Dolore,Electronics,39525,4,Debit Card,2,158100,Amazon,9
+AMZ000969,2023-09-18,Hridaan Contractor,Male,Delhi,Corrupti Ipsam,Beauty,26212,4,Net Banking,4,104848,Amazon,9
+AMZ000970,2023-02-27,Mehul Chakrabarti,Male,Delhi,Magnam Inventore,Fashion,48416,5,Credit Card,5,242080,Amazon,2
+AMZ000971,2023-07-26,Rania Saraf,Male,Hyderabad,Magnam Incidunt,Beauty,48581,5,Debit Card,2,242905,Amazon,7
+AMZ000972,2023-12-10,Indrajit ,Female,Bangalore,Nisi Nesciunt,Beauty,21493,1,Cash on Delivery,4,21493,Amazon,12
+AMZ000973,2023-04-13,Aayush Chad,Female,Delhi,Doloremque Quam,Beauty,32872,2,Net Banking,1,65744,Amazon,4
+AMZ000974,2023-11-10,Vedika Bhandari,Male,Pune,Deserunt Qui,Electronics,28922,3,Credit Card,4,86766,Amazon,11
+AMZ000975,2023-06-07,Neelofar Kibe,Male,Bangalore,Dolores Porro,Books,8491,2,Debit Card,2,16982,Amazon,6
+AMZ000976,2023-11-17,Faiyaz Ahuja,Female,Delhi,Animi Nemo,Electronics,16696,3,Credit Card,2,50088,Amazon,11
+AMZ000977,2023-10-11,Ivan Bhargava,Male,Bangalore,Hic Eaque,Beauty,22637,3,UPI,3,67911,Amazon,10
+AMZ000978,2023-06-30,Biju Sarkar,Female,Chennai,Similique Ullam,Fashion,42611,4,Debit Card,5,170444,Amazon,6
+AMZ000979,2023-05-31,Aarna Vyas,Female,Kolkata,Libero Exercitationem,Electronics,24877,5,Cash on Delivery,4,124385,Amazon,5
+AMZ000980,2023-03-13,Alisha Garde,Female,Delhi,Rem Soluta,Fashion,9662,2,Debit Card,1,19324,Amazon,3
+AMZ000981,2023-12-07,Vivaan Goyal,Female,Kolkata,Adipisci Blanditiis,Sports,25680,1,Debit Card,1,25680,Amazon,12
+AMZ000982,2023-04-30,Umang Verma,Female,Hyderabad,Quis Necessitatibus,Sports,46900,3,Debit Card,4,140700,Amazon,4
+AMZ000983,2023-04-28,Ahana  Sangha,Male,Kolkata,Neque Aliquid,Electronics,493,4,UPI,3,1972,Amazon,4
+AMZ000984,2023-03-15,Advika Saxena,Male,Delhi,Doloribus Repudiandae,Electronics,18666,1,Net Banking,3,18666,Amazon,3
+AMZ000985,2023-06-02,Kaira Srivastava,Male,Delhi,Debitis Cum,Beauty,1171,5,UPI,3,5855,Amazon,6
+AMZ000986,2023-02-14,Hazel Gour,Male,Pune,Eos Consectetur,Beauty,33902,4,UPI,3,135608,Amazon,2
+AMZ000987,2023-04-26,Eshani Ben,Male,Pune,Iure Qui,Books,17965,5,Debit Card,2,89825,Amazon,4
+AMZ000988,2023-12-14,Lakshit Dhawan,Male,Hyderabad,Voluptate Facilis,Electronics,47379,5,UPI,4,236895,Amazon,12
+AMZ000989,2023-10-02,Bhamini Deep,Female,Mumbai,Beatae Omnis,Home & Kitchen,24466,4,Cash on Delivery,1,97864,Amazon,10
+AMZ000990,2023-01-07,Siya Ganesan,Female,Hyderabad,Tempore Vitae,Home & Kitchen,28790,5,Cash on Delivery,2,143950,Amazon,1
+AMZ000991,2023-01-07,Nehmat Gola,Female,Hyderabad,Harum Odit,Books,27150,2,Cash on Delivery,2,54300,Amazon,1
+AMZ000992,2023-09-05,Reyansh Bhardwaj,Female,Bangalore,Blanditiis Enim,Home & Kitchen,37019,1,UPI,2,37019,Amazon,9
+AMZ000993,2023-05-24,Yakshit Chhabra,Female,Bangalore,Voluptate Autem,Fashion,5691,5,Cash on Delivery,4,28455,Amazon,5
+AMZ000994,2023-11-08,Mehul Baral,Male,Hyderabad,Cumque Saepe,Beauty,48755,2,Debit Card,3,97510,Amazon,11
+AMZ000995,2023-05-20,Diya Dugar,Male,Mumbai,Ducimus Qui,Home & Kitchen,6485,2,Cash on Delivery,2,12970,Amazon,5
+AMZ000996,2023-07-27,Himmat Devan,Male,Pune,Eaque Excepturi,Electronics,43975,1,UPI,3,43975,Amazon,7
+AMZ000997,2023-11-20,Jhanvi Srivastava,Male,Hyderabad,Architecto Voluptas,Beauty,22270,1,Cash on Delivery,3,22270,Amazon,11
+AMZ000998,2023-03-21,Umang Shenoy,Male,Delhi,Aut Fugit,Books,28576,1,Credit Card,5,28576,Amazon,3
+AMZ000999,2023-07-06,Saira Singhal,Female,Kolkata,Eum Omnis,Fashion,11534,2,UPI,4,23068,Amazon,7
+AMZ001000,2023-11-08,Riaan Srinivas,Male,Delhi,Saepe Harum,Sports,10983,2,Net Banking,1,21966,Amazon,11
